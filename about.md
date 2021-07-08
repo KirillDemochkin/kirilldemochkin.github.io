@@ -1,4 +1,4 @@
-# Welcome to Casual GAN Papers!
+Welcome to Casual GAN Papers!  
 Hi, my name is Kirill. I obtained an Ms in CS from Skoltech in 2021 and work as a research Scientist at Samsung AI Moscow, and this is my blog!
 
 Here you will find:
