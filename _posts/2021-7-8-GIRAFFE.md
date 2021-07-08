@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "CVPR 2021 Best Paper - GIRAFFE"
-date:   2021-7-8 10:18:00
-categories: implicit_3d 3d_aware_GAN generative_NeRF compositional_3d_generation
+date:   2021-7-8 10:18:00 -0000
+categories: 3d-aware-GAN generative-NeRF compositional-3d-generation
 ---
 
 #34: CVPR 2021 Best Paper - "Representing Scenes as Compositional Generative Neural Feature Fields" (GIRAFFE) by Michael Niemeyer et al.
