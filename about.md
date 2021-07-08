@@ -1,7 +1,17 @@
 Welcome to Casual GAN Papers!  
-Hi, my name is Kirill. I obtained an Ms in CS from Skoltech in 2021 and work as a research Scientist at Samsung AI Moscow, and this is my blog!
+Hi!
 
-Here you will find:
+My name is Kirill, I received an MSc in Data Science from Skoltech, and I love Computer Vision, Deep Learning, and especially GANs.
+
+I joined Samsung AI Center, Moscow last summer as a research scientist to work on generative computer vision research projects, which are exploding in popularity right now.
+
+That is why I read about 5-7 new papers a week just to stay up to date with all of the new exciting research that is released weekly. 
+
+Reading and understanding all of these ideas is tough, hence I started Casual GAN Papers - to record an easy to understand summary of the main ideas from the most interesting papers that I read as well as my thoughts on those papers.
+
+If you constantly find yourself saving interesting papers to your reading list, and never reading them because you do not have the time for it then **Casual GAN Papers** is for you!
+
+On this site you will find:
 
 🔥 Popular deep learning & GAN papers explained casually!
 
