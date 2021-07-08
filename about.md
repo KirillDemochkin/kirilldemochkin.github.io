@@ -1,4 +1,4 @@
-Hi, Welcome to Casual GAN Papers!
+Hi, welcome to Casual GAN Papers!
 
 My name is Kirill, I am a Skoltech MSc graduate in Data Science, and I love Computer Vision, Deep Learning, and especially GANs.
 
