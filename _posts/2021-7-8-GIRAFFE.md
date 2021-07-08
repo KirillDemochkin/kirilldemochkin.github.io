@@ -4,15 +4,15 @@ title:  "CVPR 2021 Best Paper - GIRAFFE"
 date:   2021-7-8 10:18:00 -0000
 categories: 3d-aware-GAN generative-NeRF compositional-3d-generation
 ---
-
+  
 #### 34: Representing Scenes as Compositional Generative Neural Feature Fields by Michael Niemeyer et al.
-
+  
 ##### 🎯 At a glance:
 
 If you thought GRAF did a good job at 3d-aware image synthesis just wait until you see the samples from this model by Michael Niemeyer and colleagues at the Max Planck Institute. While generating 256x256 resolution images does not sound that impressive in 2021, leveraging knowledge about the 3D nature of real world scenes to explicitly control the position, shape, and appearance of objects on the generated images certainly is exciting. So, did GIRAFFE deservedly win the best paper award at the recent CVPR 2021? Keep reading to find out!
 
-##### ⭐️ Paper difficulty: 🌕🌕🌕🌑🌑
-
+##### ⭐️Paper difficulty: 🌕🌕🌕🌑🌑
+  
 ##### ⌛️ Prerequisites:
 
 *(Highly recommended reading to understand the core contributions of this paper):*
@@ -43,7 +43,7 @@ The low resolution feature map from step 2 is processed by a convolutional netwo
 - I said it before, and I will say it again: I am mindblown that coherent 3d-ish scenes are possible to learn from a set of unposed 2d images
 - I wonder what kept the authors from going to 512 or 1024 resolution. I assume it is computational complexity but it is not specifically mentioned in the paper
 
-##### 🔗Links:
+##### 🔗 Links:
 [Paper](http://www.cvlibs.net/publications/Niemeyer2021CVPR.pdf) / [Code](https://github.com/autonomousvision/giraffe)
 
 ##### 👋 Thanks for reading!
