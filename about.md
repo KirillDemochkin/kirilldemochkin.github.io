@@ -2,7 +2,7 @@ Hi, Welcome to Casual GAN Papers!
 
 My name is Kirill, I am a Skoltech MSc graduate in Data Science, and I love Computer Vision, Deep Learning, and especially GANs.
 
-I joined Samsung AI Center, Moscow last summer as a research scientist to work on generative computer vision research projects, which are exploding in popularity right now.
+I joined Samsung AI Center, Moscow in 2020 as a research scientist to work on generative computer vision research projects, which are exploding in popularity right now.
 
 That is why I read about 5-7 new papers a week just to stay up to date with all of the new exciting research that is released weekly. 
 
