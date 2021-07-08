@@ -12,13 +12,10 @@ If you constantly find yourself saving interesting papers to your reading list, 
 
 On this site you will find:
 
-🔥 Popular deep learning & GAN papers explained casually!
-
-📚 Main ideas & insights from papers to stay up to date with research trends
-
-⭐️New posts every Tue and Fri
-
-⏰ Reading time <10 minutes
+🔥 Popular deep learning & GAN papers explained casually!  
+📚 Main ideas & insights from papers to stay up to date with research trends  
+⭐️New posts every Tue and Fri  
+⏰ Reading time <10 minutes  
 
 Visit [casualganpapers.com](https://www.casualganpapers.com)
 or join the [Casual GAN Papers telegram channel](https://t.me/joinchat/KeutnzlvetRkZGZi)
