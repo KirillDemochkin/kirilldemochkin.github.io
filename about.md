@@ -8,7 +8,7 @@ That is why I read about 5-7 new papers a week just to stay up to date with all 
 
 Reading and understanding all of these ideas is tough, hence I started Casual GAN Papers - to record an easy to understand summary of the main ideas from the most interesting papers that I read as well as my thoughts on those papers.
 
-If you constantly find yourself saving interesting papers to your reading list, and never reading them because you do not have the time for it then **Casual GAN Papers** is for you!
+If you always find yourself saving interesting papers to your reading list, and never acttually reading them because you simply do not have enough time, then **Casual GAN Papers** is for you!
 
 On this site you will find:
 
@@ -18,7 +18,7 @@ On this site you will find:
 ⏰ Reading time <10 minutes  
 
 Visit [casualganpapers.com](https://www.casualganpapers.com)
-or join the [Casual GAN Papers telegram channel](https://t.me/joinchat/KeutnzlvetRkZGZi)
+and join the [Casual GAN Papers telegram channel](https://t.me/joinchat/KeutnzlvetRkZGZi)
 to receive digests of the latest AI papers twice a week!
 
 For business inquiries contact: [Kirill Demochkin](mailto:kdemochkin@gmail.com)
