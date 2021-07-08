@@ -1,7 +1,7 @@
 Welcome to Casual GAN Papers!  
 Hi!
 
-My name is Kirill, I received an MSc in Data Science from Skoltech, and I love Computer Vision, Deep Learning, and especially GANs.
+My name is Kirill, I am a Skoltech MSc graduate in Data Science, and I love Computer Vision, Deep Learning, and especially GANs.
 
 I joined Samsung AI Center, Moscow last summer as a research scientist to work on generative computer vision research projects, which are exploding in popularity right now.
 
