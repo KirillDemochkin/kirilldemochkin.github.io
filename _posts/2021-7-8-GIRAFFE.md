@@ -15,7 +15,7 @@ If you thought GRAF did a good job at 3d-aware image synthesis just wait until y
 
 ### ⌛️ Prerequisites:
 
-(Highly recommended reading to understand the core contributions of this paper):
+*(Highly recommended reading to understand the core contributions of this paper):*
 1. [NeRF](https://t.me/casual_gan/22)
 2. [GRAF](https://t.me/casual_gan/61)
 
@@ -29,7 +29,7 @@ All objects are composited via density-weighted mean into a single scene, where 
 **3) 2D Image Rendering:**
 The low resolution feature map from step 2 is processed by a convolutional network with upsampling and skip connections to produce the final image. The training procedure is similar to GRAF, and the object level transformations are sampled at each iteration (gravity is taken into account). All MLPs share their weights for all objects.
 
-###📈 Experiment insights / Key takeaways:
+### 📈 Experiment insights / Key takeaways:
 - Several datasets from various domains are considered at 256 resolution
 - Platonic-GAN, BlockGAN, HoloGAN, and GRAF are evaluated against (spoiler: GIRAFFE beats them all)
 - Without any supervision strong scene disentanglement emerges. Objects are independent of the background and of one another.
@@ -37,16 +37,16 @@ The low resolution feature map from step 2 is processed by a convolutional netwo
 - Scenes generalize beyond training data: increased translation ranges, number of object, etc
 - Dataset biases affect disentanglement
 
-###✏️My Notes:
+### ✏️My Notes:
 - (5/5) for the name of the model! Oh how long have I waited for a paper name like this 😍
 - Sure, 256x256 images are nothing to drool over in 2021 but I think this paper's main contribution is the proof of concept for leveraging implicit 3d knowledge in 2d generative tasks
 - I said it before, and I will say it again: I am mindblown that coherent 3d-ish scenes are possible to learn from a set of unposed 2d images
 - I wonder what kept the authors from going to 512 or 1024 resolution. I assume it is computational complexity but it is not specifically mentioned in the paper
 
-###🔗Links:
+### 🔗Links:
 [Paper](http://www.cvlibs.net/publications/Niemeyer2021CVPR.pdf) / [Code](https://github.com/autonomousvision/giraffe)
 
-###👋 Thanks for reading!
+### 👋 Thanks for reading!
 *If you found this paper digest useful, subscribe and share the post with your friends and colleagues to support Casual GAN Papers!
 Join [the Casual GAN Papers telegram channel](https://t.me/joinchat/KeutnzlvetRkZGZi) to stay up to date with new AI Papers!*
 
