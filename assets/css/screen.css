@@ -147,9 +147,6 @@ table { border-collapse: collapse; border-spacing: 0; }
 .icon-facebook:before {
     content: "\f604";
 }
-.icon-tg:before {
-    content: "\f609";
-}
 .icon-arrow-left:before {
     content: "\f605";
 }
@@ -162,6 +159,9 @@ table { border-collapse: collapse; border-spacing: 0; }
 }
 .icon-link:before {
     content: "\f608";
+}
+.icon-tg:before {
+    content: "\e900";
 }
 
 

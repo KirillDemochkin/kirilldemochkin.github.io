@@ -4,7 +4,7 @@ meta_description: "Popular deep learning & machine learning papers explained cas
 
 markdown: kramdown
 highlighter: rouge
-logo: false
+logo: True
 paginate: 15
 baseurl: ""
 domain_name: "https://casualganpapers.com"
