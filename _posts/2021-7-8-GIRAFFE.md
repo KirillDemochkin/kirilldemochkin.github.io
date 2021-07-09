@@ -43,6 +43,8 @@ The low resolution feature map from step 2 is processed by a convolutional netwo
 
 ***
 
+##### 🖼️ Paper Poster:
+
 ![CVPR 2021 best paper - GIRAFFE explained](/assets/images/GIRAFFE.png "GIRAFFE Paper Poster")
 
 ***
@@ -61,9 +63,9 @@ The low resolution feature map from step 2 is processed by a convolutional netwo
 ##### 👋 Thanks for reading!
 *If you found this paper digest useful, subscribe and share the post with your friends and colleagues to support Casual GAN Papers!*
 
-*Join [the Casual GAN Papers telegram channel](https://t.me/joinchat/KeutnzlvetRkZGZi) to stay up to date with new AI Papers!*
+**_Support [CGP on Patreon](https://www.patreon.com/casual_gan) for exclusive perks!_**
 
-*Support [CGP on Patreon](https://www.patreon.com/casual_gan) for exclusive perks!*
+*Join [the Casual GAN Papers telegram channel](https://t.me/joinchat/KeutnzlvetRkZGZi) to stay up to date with new AI Papers!*
 
 ***
 
