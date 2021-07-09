@@ -17,8 +17,9 @@ On this site you will find:
 ⭐️New posts every Tue and Fri  
 ⏰ Reading time <10 minutes  
 
-Visit [casualganpapers.com](https://www.casualganpapers.com)
-and join the [Casual GAN Papers telegram channel](https://t.me/joinchat/KeutnzlvetRkZGZi)
+Join the [Casual GAN Papers telegram channel](https://t.me/joinchat/KeutnzlvetRkZGZi)
 to receive digests of the latest AI papers twice a week!
+
+**Support [Casual GAN Papers on Patreon](https://www.patreon.com/casual_gan) for exclusive perks!**
 
 For business inquiries contact: [Kirill Demochkin](mailto:kdemochkin@gmail.com)
