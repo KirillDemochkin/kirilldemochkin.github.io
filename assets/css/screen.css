@@ -621,7 +621,8 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .top-button-container {
-    text-align: right
+    text-align: right;
+    line-height: 35px;
 }
 
 .patreon-button {
