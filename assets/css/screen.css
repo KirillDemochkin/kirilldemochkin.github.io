@@ -583,7 +583,7 @@ margin on the iframe, cause it breaks stuff. */
     text-align: center;
     font-size: 12px;
     text-transform: uppercase;
-    line-height: 35px;
+    line-height: 100px;
     border-radius: 3px;
     background: rgba(0,0,0,0.1);
     transition: all ease 0.3s;
@@ -609,7 +609,7 @@ margin on the iframe, cause it breaks stuff. */
     text-align: center;
     font-size: 12px;
     text-transform: uppercase;
-    line-height: 35px;
+    line-height: 100px;
     white-space: nowrap;
     border-radius: 3px;
     background: rgba(0,0,0,0.1);
@@ -622,7 +622,7 @@ margin on the iframe, cause it breaks stuff. */
 
 .top-button-container {
     text-align: right;
-    line-height: 35px;
+    line-height: 100px;
 }
 
 .patreon-button {
@@ -631,7 +631,7 @@ margin on the iframe, cause it breaks stuff. */
     box-sizing: border-box;
     display: inline-block;
     width: auto;
-    line-height: 35px;
+    line-height: 100px;
     padding-right: 8px;
     padding-left: 8px;
 }
