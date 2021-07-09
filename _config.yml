@@ -1,10 +1,10 @@
 name: Casual GAN Papers
-description: Easy to read summaries of popular ML/DL papers
-meta_description: "Popular deep learning & machine learning papers explained casually twice a week"
+description: Easy to read summaries of popular AI papers
+meta_description: "Popular deep learning & machine learning papers explained in 5 minutes twice a week"
 
 markdown: kramdown
 highlighter: rouge
-logo: True
+logo: false
 paginate: 15
 baseurl: ""
 domain_name: "https://casualganpapers.com"
