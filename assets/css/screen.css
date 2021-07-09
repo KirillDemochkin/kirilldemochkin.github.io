@@ -583,7 +583,7 @@ margin on the iframe, cause it breaks stuff. */
     text-align: center;
     font-size: 12px;
     text-transform: uppercase;
-    line-height: 100px;
+    line-height: 35px;
     border-radius: 3px;
     background: rgba(0,0,0,0.1);
     transition: all ease 0.3s;
@@ -609,11 +609,12 @@ margin on the iframe, cause it breaks stuff. */
     text-align: center;
     font-size: 12px;
     text-transform: uppercase;
-    line-height: 100px;
+    line-height: 35px;
     white-space: nowrap;
     border-radius: 3px;
     background: rgba(0,0,0,0.1);
     transition: all ease 0.3s;
+    vertical-align: baseline;
 }
 .subscribe-button:before {
     font-size: 9px;
@@ -622,7 +623,7 @@ margin on the iframe, cause it breaks stuff. */
 
 .top-button-container {
     text-align: right;
-    line-height: 100px;
+    height: 100px;
 }
 
 .patreon-button {
@@ -631,7 +632,8 @@ margin on the iframe, cause it breaks stuff. */
     box-sizing: border-box;
     display: inline-block;
     width: auto;
-    line-height: 100px;
+    height: auto;
+    vertical-align: baseline;
     padding-right: 8px;
     padding-left: 8px;
 }
