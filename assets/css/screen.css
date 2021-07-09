@@ -494,6 +494,10 @@ margin on the iframe, cause it breaks stuff. */
     margin: 0 0 30px 0;
 }
 
+.main-nav > * {
+    vertical-align:middle;
+}
+
 .main-nav a {
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
@@ -614,7 +618,6 @@ margin on the iframe, cause it breaks stuff. */
     border-radius: 3px;
     background: rgba(0,0,0,0.1);
     transition: all ease 0.3s;
-    vertical-align: baseline;
 }
 .subscribe-button:before {
     font-size: 9px;
@@ -626,6 +629,10 @@ margin on the iframe, cause it breaks stuff. */
     height: 100px;
 }
 
+.top-button-container > * {
+    vertical-align:middle;
+}
+
 .patreon-button {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -633,7 +640,6 @@ margin on the iframe, cause it breaks stuff. */
     display: inline-block;
     width: auto;
     height: auto;
-    vertical-align: baseline;
     padding-right: 8px;
     padding-left: 8px;
 }

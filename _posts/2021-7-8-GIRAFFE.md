@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CVPR 2021 Best Paper - GIRAFFE"
+title:  "CVPR 2021 Best Paper - GIRAFFE Explained"
 date:   2021-7-8 10:18:00 -0000
 categories: 3d-aware-GAN generative-NeRF compositional-3d-generation
 ---
