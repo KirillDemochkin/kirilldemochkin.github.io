@@ -43,6 +43,10 @@ The low resolution feature map from step 2 is processed by a convolutional netwo
 
 ***
 
+![CVPR 2021 best paper - GIRAFFE explained](/assets/images/GIRAFFE.png "GIRAFFE Paper Poster")
+
+***
+
 ##### ✏️My Notes:
 - (5/5) for the name of the model! Oh how long have I waited for a paper name like this 😍
 - Sure, 256x256 images are nothing to drool over in 2021 but I think this paper's main contribution is the proof of concept for leveraging implicit 3d knowledge in 2d generative tasks
