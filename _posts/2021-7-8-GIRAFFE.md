@@ -7,6 +7,7 @@ categories: 3d-aware-GAN generative-NeRF compositional-3d-generation
   
 #### 34: Representing Scenes as Compositional Generative Neural Feature Fields by Michael Niemeyer et al.
 
+<br/><br/>
 ##### ⭐️Paper difficulty: 🌕🌕🌕🌑🌑
 
 ***
