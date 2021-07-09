@@ -627,6 +627,7 @@ margin on the iframe, cause it breaks stuff. */
     display: inline-block;
     width: auto;
     height: auto;
+    vertical-align: baseline;
     padding-right: 8px;
     padding-left: 8px;
 }
