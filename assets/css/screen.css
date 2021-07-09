@@ -625,9 +625,9 @@ margin on the iframe, cause it breaks stuff. */
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     display: inline-block;
-    float: right;
+    width: auto;
+    height: auto;
     padding: 0 20px;
-    white-space: nowrap;
 }
 
 /* Special styles when overlaid on an image*/
