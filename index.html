@@ -13,9 +13,6 @@ logo: '/assets/images/cgp_logo.png'
                     <img src="{{ page.logo }}" alt="Blog Logo" />
                 </a>
             {% endif %}
-        <span class="patreon-button">
-            <a href="https://www.patreon.com/bePatron?u=53448948" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-        </span>
         <a class="subscribe-button icon-feed" href="https://t.me/joinchat/yl2OQsQrGzNlMGQy">Subscribe</a>
     </nav>
     <div class="vertical">
@@ -25,6 +22,9 @@ logo: '/assets/images/cgp_logo.png'
                 {% if site.description %} {{ site.description }}. {% endif %}
                 {% if page.about %} <a href='{{page.about | relative_url}}'> About me </a> {% endif %}
             </h2>
+            <span class="patreon-button">
+                <a href="https://www.patreon.com/bePatron?u=53448948" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+            </span>
         </div>
     </div>
     <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
