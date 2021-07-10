@@ -1,4 +1,4 @@
-**Hi, welcome to Casual GAN Papers!**
+#Hi, welcome to Casual GAN Papers!
 
 #### Who am I?
 
