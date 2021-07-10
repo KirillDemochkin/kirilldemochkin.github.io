@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CVPR 2021 Best Paper - GIRAFFE Explained"
-date:   2021-7-8 10:18:00 -0000
+date:   2021-7-8 19:00:00 -0000
 categories: 3d-aware-GAN generative-NeRF compositional-3d-generation
 ---
   
@@ -19,7 +19,7 @@ If you thought GRAF did a good job at 3d-aware image synthesis just wait until y
 
 *(Highly recommended reading to understand the core contributions of this paper):*
 1. [NeRF](https://t.me/casual_gan/22)
-2. [GRAF](https://t.me/casual_gan/61)
+2. [GRAF]({% post_url 2021-7-2-GRAF %})
 
 ***
 
