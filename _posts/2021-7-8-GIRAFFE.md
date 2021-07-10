@@ -5,7 +5,7 @@ date:   2021-7-8 19:00:00 -0000
 categories: 3d-aware-GAN generative-NeRF compositional-3d-generation
 ---
   
-#### Representing Scenes as Compositional Generative Neural Feature Fields by Michael Niemeyer et al.
+#### Representing Scenes as Compositional Generative Neural Feature Fields by Michael Niemeyer et al. explained in 5 minutes.
 
 ##### ⭐️Paper difficulty: 🌕🌕🌕🌑🌑
 
@@ -14,6 +14,9 @@ categories: 3d-aware-GAN generative-NeRF compositional-3d-generation
 ##### 🎯 At a glance:
 
 If you thought GRAF did a good job at 3d-aware image synthesis just wait until you see the samples from this model by Michael Niemeyer and colleagues at the Max Planck Institute. While generating 256x256 resolution images does not sound that impressive in 2021, leveraging knowledge about the 3D nature of real world scenes to explicitly control the position, shape, and appearance of objects on the generated images certainly is exciting. So, did GIRAFFE deservedly win the best paper award at the recent CVPR 2021? Keep reading to find out!
+![GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields samples multi-object generation](/assets/images/add_clevr6.gif "GIRAFFE: multi-object generation")
+![GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields samples controlled translation](/assets/images/tr_d_cars.gif "GIRAFFE: controlled translation")
+![GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields samples controlled rotation](/assets/images/rotation_celebahq.gif "GIRAFFE: controlled rotation")
 
 ##### ⌛️ Prerequisites:
 
