@@ -7,11 +7,14 @@ categories: 3d-aware-GAN generative-NeRF compositional-3d-generation
   
 #### Representing Scenes as Compositional Generative Neural Feature Fields by Michael Niemeyer et al. explained in 5 minutes.
 
+***
+
 ##### ⭐️Paper difficulty: 🌕🌕🌕🌑🌑
 
 ![GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields samples multi-object generation](/assets/images/add_clevr6.gif "GIRAFFE: multi-object generation")
 ![GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields samples controlled translation](/assets/images/tr_d_cars.gif "GIRAFFE: controlled translation")
 ![GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields samples controlled rotation](/assets/images/rotation_celebahq.gif "GIRAFFE: controlled rotation")
+
 
 ##### 🎯 At a glance:
 
