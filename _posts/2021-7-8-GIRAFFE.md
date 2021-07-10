@@ -63,9 +63,9 @@ The low resolution feature map from step 2 is processed by a convolutional netwo
 ##### 👋 Thanks for reading!
 *If you found this paper digest useful, subscribe and share the post with your friends and colleagues to support Casual GAN Papers!*
 
-**_Support [Casual GAN Paperson Patreon](https://www.patreon.com/casual_gan) for exclusive perks!_**
-
 *Join [the Casual GAN Papers telegram channel](https://t.me/joinchat/KeutnzlvetRkZGZi) to stay up to date with new AI Papers!*
+
+<a href="https://www.patreon.com/bePatron?u=53448948" data-patreon-widget-type="become-patron-button">Join Patreon for Exclusive Perks!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 ***
 
