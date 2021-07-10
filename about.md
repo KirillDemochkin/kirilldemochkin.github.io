@@ -3,6 +3,8 @@ title:  Hi, welcome to Casual GAN Papers!
 date:   2021-7-9 19:00:00 -0000
 ---
 
+***
+
 #### Who am I?
 
 My name is **Kirill**, I am a Skoltech MSc graduate in Data Science, and I love Computer Vision, Deep Learning, and especially GANs.
@@ -15,12 +17,16 @@ That is why **I read about 5-7 new papers a week** just to stay up to date with 
 
 If you always find yourself saving interesting papers to your reading list but never get around to reading them, then *Casual GAN Papers* is for you!
 
+***
+
 #### What is Casual GAN Papers?
 
 🔥 Popular deep learning & GAN papers explained casually!  
 📚 Main ideas & insights from papers to stay up to date with research trends   
 ⭐️New posts every Tuesday and Friday  
 ⏰ Reading time <10 minutes  
+
+***
 
 #### Contacts
 
