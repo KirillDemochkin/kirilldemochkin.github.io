@@ -1,4 +1,4 @@
-Hi, welcome to Casual GAN Papers!
+### Hi, welcome to Casual GAN Papers!
 
 My name is **Kirill**, I am a Skoltech MSc graduate in Data Science, and I love Computer Vision, Deep Learning, and especially GANs.
 
@@ -10,16 +10,18 @@ Reading and understanding all of these ideas is tough, hence I started Casual GA
 
 If you always find yourself saving interesting papers to your reading list, and never acttually reading them because you simply do not have enough time, then **Casual GAN Papers** is for you!
 
-On this site you will find:
+#### What is Casual GAN Papers?
 
 🔥 Popular deep learning & GAN papers explained casually!  
-📚 Main ideas & insights from papers to stay up to date with research trends  
-⭐️New posts every Tue and Fri  
+📚 Main ideas & insights from papers to stay up to date with research trends   
+⭐️New posts every Tuesday and Friday  
 ⏰ Reading time <10 minutes  
+
+#### Contacts
 
 Join the [Casual GAN Papers telegram channel](https://t.me/joinchat/KeutnzlvetRkZGZi)
 to receive digests of the latest AI papers twice a week!
 
-**Support [Casual GAN Papers on Patreon](https://www.patreon.com/casual_gan) for exclusive perks!**
+<a href="https://www.patreon.com/bePatron?u=53448948" data-patreon-widget-type="become-patron-button">Join Patreon for Exclusive Perks!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 For business inquiries contact: [Kirill Demochkin](mailto:kdemochkin@gmail.com)
