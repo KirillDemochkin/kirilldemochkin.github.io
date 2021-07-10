@@ -1,4 +1,7 @@
-#Hi, welcome to Casual GAN Papers!
+---
+title:  Hi, welcome to Casual GAN Papers!
+date:   2021-7-9 19:00:00 -0000
+---
 
 #### Who am I?
 
