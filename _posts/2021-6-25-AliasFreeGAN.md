@@ -10,15 +10,7 @@ categories: digital-signal-processing alias-free-gan texture-sticking styleGAN2 
 ##### ⭐️Paper difficulty: 🌕🌕🌕🌕🌕
 
 ***
-
-<video controls loop width="512" autoplay poster="/assets/images/alias_free_poster.png" style="margin-left:auto;margin-right:auto;display:block">
-
-    <source src="/assets/images/aliasfree_teaser.webm">
-
-    Sorry, your browser doesn't support embedded videos.
-
-</video>
-
+![Alias-Free GAN by Tero Karras et al. samples](/assets/images/alias_free_poster.gif "Alias-Free GAN by Tero Karras")
 ![Alias-Free GAN by Tero Karras et al. samples](/assets/images/aliasfree_teaser.png "Alias-Free GAN by Tero Karras")
 
 ##### 🎯 At a glance:
