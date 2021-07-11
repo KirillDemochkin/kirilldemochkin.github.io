@@ -11,7 +11,9 @@ categories: digital-signal-processing alias-free-gan texture-sticking styleGAN2 
 
 ***
 ![Alias-Free GAN by Tero Karras et al. samples](/assets/images/alias_free_poster.gif "Alias-Free GAN by Tero Karras")
+Look at the beard on the image on the left. It is moving separately from the face
 ![Alias-Free GAN by Tero Karras et al. samples](/assets/images/aliasfree_teaser.png "Alias-Free GAN by Tero Karras")
+Alias-Free GAN vs StyleGAN2
 
 ##### 🎯 At a glance:
 
