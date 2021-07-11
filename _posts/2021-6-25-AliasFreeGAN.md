@@ -10,9 +10,9 @@ categories: digital-signal-processing alias-free-gan texture-sticking styleGAN2 
 ##### ⭐️Paper difficulty: 🌕🌕🌕🌕🌕
 
 ***
-<video controls loop width="2048" height="1120" autoplay poster="/assets/images/aliasfree_poster.png">
+<video controls loop width="512" height="280" autoplay poster="/assets/images/alias_free_poster.png">
 
-    <source src="/assets/images/aliasfree_teaser.mp4">
+    <source src="/assets/images/aliasfree_teaser.webm">
 
     Sorry, your browser doesn't support embedded videos.
 </video>
