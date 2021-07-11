@@ -11,7 +11,7 @@ categories: digital-signal-processing alias-free-gan texture-sticking styleGAN2 
 
 ***
 
-<video controls loop width="750" autoplay poster="/assets/images/alias_free_poster.png" style="margin-left:auto;margin-right:auto;display:block">
+<video controls loop width="700" autoplay poster="/assets/images/alias_free_poster.png" style="margin-left:auto;margin-right:auto;display:block">
 
     <source src="/assets/images/aliasfree_teaser.webm">
 
