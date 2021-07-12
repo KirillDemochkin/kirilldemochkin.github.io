@@ -13,7 +13,7 @@ categories: anime multimodal image-to-image video-stylization
 
 ***
 
-![GANs N’ Roses by Xintao Wang et al. samples](/assets/images/gnr_teaser.jpg "GANs N’ Roses explained")
+![GANs N’ Roses by Xintao Wang et al. samples](/assets/images/gnr_teaser.gif "GANs N’ Roses explained")
 
 ##### 🎯 At a glance:
 
