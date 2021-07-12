@@ -9,10 +9,10 @@ paginate: 15
 baseurl: ""
 domain_name: "https://casualganpapers.com"
 google_analytics: "UA-163377075-3"
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-sitemap]
 
 # Details for the RSS feed generator
-url: ""
+url: "https://casualganpapers.com"
 author: "Kirill Demochkin"
 
 # Disqus config
