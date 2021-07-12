@@ -17,7 +17,7 @@ categories: anime multimodal image-to-image video-stylization
 
 ##### 🎯 At a glance:
 
-Have you ever tried restoring old photos? It is a long tedious process since the degradation artifacts are complex, and the poses and expressions are diverse. Luckily the authors from ARC Tencent came up with GFP-GAN - a new method for real-world blind face restoration that leverages a pretrained GAN and spatial feature transform to restore facial details with a single forward pass.
+Did you ever want to see what you look like as an anime waifu? Thanks to the authors of GANs N' Roses you can animefy (pretty sure this isn't a real word) selfies and even videos with a multitude of unique styles. The authors from the University of Illinois propose a new generator architecture that combines a content code computed from a face image and a randomly chosen style to produce consistent, diverse and controllable anime faces with attributes matching the content image.
 
 ##### ⌛️ Prerequisites:
 
