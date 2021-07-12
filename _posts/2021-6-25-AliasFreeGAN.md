@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "31: Alias-Free GAN Explained"
+name:  "31: Alias-Free GAN Explained"
+description: "Alias-Free GAN by Tero Karras  et al. explained in 10 minutes"
 date:   2021-6-25 19:00:00 -0000
 categories: digital-signal-processing alias-free-gan texture-sticking styleGAN2 latent-interpolation
 ---
