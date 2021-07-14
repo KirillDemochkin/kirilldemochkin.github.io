@@ -1,6 +1,6 @@
 name: Casual GAN Papers
 description: Easy to read summaries of popular AI papers
-meta_description: "Popular deep learning & machine learning papers explained in 5 minutes twice a week"
+meta_description: "Popular deep learning & machine learning papers explained biweekly in under 5 minutes"
 
 markdown: kramdown
 highlighter: rouge
