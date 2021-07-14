@@ -60,7 +60,7 @@ Adversarial loss is the standard non-saturating loss with R1 regularization.
 - the paper is written in a strangely convoluted way that makes it harder to follow the ideas than should be, hence the three moon rating
 
 ##### 🔗 Links:
-[Paper](https://arxiv.org/pdf/2106.06561v1.pdf) / [Code](https://github.com/mchong6/GANsNRoses)
+[GANs N Roses arxiv](https://arxiv.org/pdf/2106.06561v1.pdf) / [GANs N Roses github](https://github.com/mchong6/GANsNRoses)
 
 ***
 

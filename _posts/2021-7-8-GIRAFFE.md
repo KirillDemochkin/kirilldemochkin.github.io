@@ -61,7 +61,7 @@ The low resolution feature map from step 2 is processed by a convolutional netwo
 - I wonder what kept the authors from going to 512 or 1024 resolution. I assume it is computational complexity but it is not specifically mentioned in the paper
 
 ##### 🔗 Links:
-[Paper](http://www.cvlibs.net/publications/Niemeyer2021CVPR.pdf) / [Code](https://github.com/autonomousvision/giraffe)
+[GIRAFFE arxiv](http://www.cvlibs.net/publications/Niemeyer2021CVPR.pdf) / [GIRAFFE github](https://github.com/autonomousvision/giraffe)
 
 ***
 

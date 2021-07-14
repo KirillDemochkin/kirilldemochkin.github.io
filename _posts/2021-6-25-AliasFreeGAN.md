@@ -75,7 +75,7 @@ Rotation equivariance is obtained by replacing all 3x3 convolutions with 1x1 con
 - I wonder how this affects all of the encoders for StyleGAN, especially the editability of inverted images
 - I really like their "config A", "config D" convention, makes it sound like we are looking at different Tesla models.
 ##### 🔗 Links:
-[Paper](https://arxiv.org/pdf/2101.04061.pdf) / [Code](https://github.com/NVlabs/alias-free-gan)
+[Alias-free GAN arxiv](https://arxiv.org/pdf/2101.04061.pdf) / [Alias-free GAN github](https://github.com/NVlabs/alias-free-gan)
 
 ***
 
