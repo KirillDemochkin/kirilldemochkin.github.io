@@ -21,7 +21,7 @@ If you always find yourself saving interesting papers to your reading list but n
 
 #### What is Casual GAN Papers?
 
-🔥 Popular deep learning & GAN papers explained casually!  
+🔥 Popular deep learning & GAN papers explained in 5 minutes!  
 📚 Main ideas & insights from papers to stay up to date with research trends   
 ⭐️New posts every Tuesday and Friday  
 ⏰ Reading time <10 minutes  
