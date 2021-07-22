@@ -2,25 +2,17 @@
     {% if paginator.total_pages > 1 %}
         <div class="pagination">
             {% if paginator.previous_page %}
-                <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Newer Posts</a>
+                <a class="newer-posts" href="{{ paginator.previous_page_path | relative_url }}">&laquo; Older Posts</a>
             {% else %}
-                <span>&laquo; Prev</span>
+                <span class="newer-posts">&laquo; Older Posts</span>
             {% endif %}
 
-            {% for page in (1..paginator.total_pages) %}
-                {% if page == paginator.page %}
-                    <em>{{ page }}</em>
-                {% elsif page == 1 %}
-                    <a href="{{ '/' | relative_url }}">{{ page }}</a>
-                {% else %}
-                    <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
-                {% endif %}
-            {% endfor %}
+            <span class="page-number"> Page {{paginator.page}} of {{paginator.total_pages}} </span>
 
             {% if paginator.next_page %}
-                <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &raquo;</a>
+                <a class="older-posts" href="{{ paginator.next_page_path | relative_url }}">Newer Posts &raquo;</a>
             {% else %}
-                <span>Next &raquo;</span>
+                <span class="older-posts">Newer Posts &raquo;</span>
             {% endif %}
         </div>
     {% endif %}
