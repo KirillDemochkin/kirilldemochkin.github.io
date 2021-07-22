@@ -11,7 +11,7 @@ domain_name: "https://casualganpapers.com"
 google_analytics: "UA-163377075-3"
 plugins: [jekyll-paginate, jekyll-sitemap]
 permalink: /:categories/:title:output_ext
-paginate_path: "/page:num/"
+paginate_path: "/page/:num/"
 
 # Details for the RSS feed generator
 url: "https://casualganpapers.com"
