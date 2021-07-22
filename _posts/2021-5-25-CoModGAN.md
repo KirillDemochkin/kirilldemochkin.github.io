@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "23: CoModGAN Explained"
+title:  "22: CoModGAN Explained"
 meta_title: "CoModGAN Explained"
 description:  "Large Scale Image Completion via Co-Modulated Generative Adversarial Networks by Zhao Shengyu et al explained in 5 minutes."
 date:   2021-5-25 19:00:00 -0000

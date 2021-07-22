@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "25: Endless Loops Explained"
+title:  "23: Endless Loops Explained"
 meta_title: "Endless Loops Explained"
 description:  "Endless Loops: Detecting and Animating Periodic Patterns in Still Images by Tavi Halperin et al. explained in 5 minutes."
 date:   2021-5-29 19:00:00 -0000
