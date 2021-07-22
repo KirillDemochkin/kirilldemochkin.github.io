@@ -6,7 +6,7 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: "/"
+baseurl: ""
 domain_name: "https://casualganpapers.com"
 google_analytics: "UA-163377075-3"
 plugins: [jekyll-paginate, jekyll-sitemap]
