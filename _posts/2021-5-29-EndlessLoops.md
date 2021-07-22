@@ -3,7 +3,7 @@ layout: post
 title:  "25: Endless Loops Explained"
 description:  "Endless Loops: Detecting and Animating Periodic Patterns in Still Images by Tavi Halperin et al. explained in 5 minutes."
 date:   2021-5-29 19:00:00 -0000
-categories: image-animation cinemagraph-generation periodic-animation
+categories: periodic-image-animation-cinemagraph-generation 
 ---
 
 #### Endless Loops: Detecting and Animating Periodic Patterns in Still Images by Tavi Halperin et al. explained in 5 minutes.

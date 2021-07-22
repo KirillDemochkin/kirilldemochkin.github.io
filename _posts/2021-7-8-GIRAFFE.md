@@ -3,7 +3,7 @@ layout: post
 title:  "34: CVPR 2021 Best Paper - GIRAFFE Explained"
 description: "Representing Scenes as Compositional Generative Neural Feature Fields by Michael Niemeyer et al. explained in 5 minutes."
 date:   2021-7-8 19:00:00 -0000
-categories: 3d-aware-GAN generative-NeRF compositional-3d-generation
+categories: implicit-3d-aware-NeRF-GAN
 ---
   
 #### Representing Scenes as Compositional Generative Neural Feature Fields by Michael Niemeyer et al. explained in 5 minutes.
