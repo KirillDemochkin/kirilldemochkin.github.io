@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "29: GANs N’ Roses Explained"
-name:  "29: GANs N’ Roses Explained"
+meta_title:  "GANs N’ Roses Explained"
 description:  "GANs N’ Roses: Stable, Controllable, Diverse Image to Image Translation by Min Jin Chong et al. explained in 5 minutes."
 date:   2021-6-19 19:00:00 -0000
 categories: multimodal-anime-image-to-image-for-video-stylization

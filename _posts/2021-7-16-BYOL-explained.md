@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "37: BYOL Explained"
+meta_title:  "BYOL Explained"
 description: "Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning by Jean-Bastien Grill et al. explained in 5 minutes or less"
 date:   2021-7-16 19:00:00 -0000
 categories: self-supervised-representation-learning-with-online-target-networks
