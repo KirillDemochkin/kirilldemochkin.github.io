@@ -12,7 +12,8 @@ google_analytics: "UA-163377075-3"
 plugins: [jekyll-paginate, jekyll-sitemap, jekyll-redirect-from]
 permalink: /:categories/:title:output_ext
 paginate_path: "/page/:num/"
-safe: false
+whitelist:
+  - jekyll-redirect-from
 
 # Details for the RSS feed generator
 url: "https://casualganpapers.com"
