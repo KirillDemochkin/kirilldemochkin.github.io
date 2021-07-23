@@ -5,6 +5,7 @@ meta_title:  "Decision Transformer Explained"
 description:  "Decision Transformer: Reinforcement Learning via Sequence Modeling by Lili Chen et al. explained in 5 minutes."
 date:   2021-6-9 19:00:00 -0000
 categories: sequence-modeling-reinforcement-learning-transformers
+redirect_from: /transformers/offline-reinforcement-learning/sequence-modeling/2021/06/09/DecisionTransformer.html
 ---
 
 #### Decision Transformer: Reinforcement Learning via Sequence Modeling by Lili Chen et al. explained in 5 minutes.

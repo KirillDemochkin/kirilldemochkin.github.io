@@ -5,6 +5,7 @@ meta_title: "Endless Loops Explained"
 description:  "Endless Loops: Detecting and Animating Periodic Patterns in Still Images by Tavi Halperin et al. explained in 5 minutes."
 date:   2021-5-29 19:00:00 -0000
 categories: periodic-image-animation
+redirect_from: 
 ---
 
 #### Endless Loops: Detecting and Animating Periodic Patterns in Still Images by Tavi Halperin et al. explained in 5 minutes.
