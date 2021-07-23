@@ -22,7 +22,7 @@ Is it possible to learn good image representations for many downstream tasks at 
 
 ##### ⌛️ Prerequisites:
 
-*(Highly recommended reading to understand the core contributions of this paper):*
+*(Highly recommended reading to understand the core contributions of this paper):*  
 1) [SimCLR]({% post_url 2021-7-13-SimCLR %})
 
 ***
