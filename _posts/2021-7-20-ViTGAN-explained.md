@@ -5,7 +5,7 @@ meta_title:  "ViTGAN Explained"
 description: "ViTGAN: Training GANs with Vision Transformers by Kwonjoon Lee et al. explained in 5 minutes or less"
 date:   2021-7-20 19:00:00 -0000
 categories: GAN-based-self-attention-vision-transformers
-redirect_from: /gan/vision-transformer/self-attention/spectral-normalization/2021/07/20/
+redirect_from: /gan/vision-transformer/self-attention/spectral-normalization/2021/07/20/ViTGAN.html
 ---
   
 #### ViTGAN: Training GANs with Vision Transformers by Kwonjoon Lee et al. explained in 5 minutes or less. 
