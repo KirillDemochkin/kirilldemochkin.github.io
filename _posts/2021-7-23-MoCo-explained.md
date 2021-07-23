@@ -22,7 +22,7 @@ The core motivation of self-supervised learning (SSL) is to use pretraining on u
 ##### ⌛️ Prerequisites:
 
 *(Highly recommended reading to understand the core ideas in this paper):*  
-1) [SimCLR]({% post_url 2021-7-13-SimCLR %})
+1) [SimCLR]({% post_url 2021-7-13-SimCLR %})  
 2) [BYOL]({% post_url 2021-7-16-BYOL-explained %})
 
 ***
