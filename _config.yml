@@ -9,7 +9,7 @@ paginate: 15
 baseurl: ""
 domain_name: "https://casualganpapers.com"
 google_analytics: "UA-163377075-3"
-plugins: [jekyll-paginate, jekyll-sitemap]
+plugins: [jekyll-paginate, jekyll-sitemap, jekyll-redirect-from]
 permalink: /:categories/:title:output_ext
 paginate_path: "/page/:num/"
 
