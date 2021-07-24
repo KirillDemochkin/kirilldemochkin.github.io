@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "39: MoCO Explained"
-meta_title: "MoCo Explained"
+title:  "39: MoCO v1 & v2 Explained"
+meta_title: "MoCo v1 & v2 Explained"
 description:  "Momentum Contrast for Unsupervised Visual Representation Learning by Kwonjoon Lee et al. explained in 5 minutes."
 date: 2021-7-23 19:00:00 -0000
 categories: self-supervised-representation-learning-encoder
