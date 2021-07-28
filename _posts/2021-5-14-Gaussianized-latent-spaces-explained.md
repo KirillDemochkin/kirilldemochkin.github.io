@@ -2,7 +2,7 @@
 layout: post
 title: "19: Gaussianized Latent Spaces Explained"
 meta_title: "Gaussianized Latent Spaces Explained"
-description: "Improving Inversion and Generation Diversity in StyleGAN using a Gaussianized Latent Space" by Wulff et al. explained in 5 minutes."
+description: "Improving Inversion and Generation Diversity in StyleGAN using a Gaussianized Latent Space by Wulff et al. explained in 5 minutes."
 date: 2021-5-14 19:00:00 -0000
 categories: gaussian_prior_latent_space_encoding
 ---
