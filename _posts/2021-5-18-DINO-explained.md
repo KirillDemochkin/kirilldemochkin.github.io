@@ -3,7 +3,7 @@ layout: post
 title:  "20: DINO Explained"
 meta_title: "DINO Explained"
 description:  "Emerging Properties in Self-Supervised Vision Transformers by Caron et al. explained in 5 minutes."
-date:   2021-5-21 19:00:00 -0000
+date:   2021-5-18 19:00:00 -0000
 categories: self-supervised-segmentation-vision-transformers
 ---
 
