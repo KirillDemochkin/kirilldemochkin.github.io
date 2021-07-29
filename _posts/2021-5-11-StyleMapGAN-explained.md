@@ -13,7 +13,7 @@ categories: spatial-latent-image-editing-GAN-inversion
 
 ***
 
-![Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing Samples](/assets/images/gaussianized_teaser.jpg "StyleMapGAN Samples")
+![Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing Samples](/assets/images/stylemapgan_teaser.jpg "StyleMapGAN Samples")
 
 ##### 🎯 At a glance:
 
