@@ -29,14 +29,14 @@ Nothing here, enjoy the paper!
 ##### 🔍 Main Ideas:
 
 **1) Data collection:**  
-The main contribution of this paper is a pipeline that enables an unsupervised creation of synthetic paired datasets that can be used to apply chosen edits to real images. This pipeline can be described in 7 steps:
-1) sample a lot latent vectors and corresponding images from a pretrained generator
-2) get attribute predictions from a pretrained classifier network
-3) select images with high classification scores for desired attributes
-4) find the editing direction by subtracting the average latent vector of the images with the highest negative scores for the attribute from images with the most positive scores.
-5) sample sets of latent vectors that are made up of a random vector, a vector with the edit direction subtracted from it and one with the edit direction added
-6) predict the attribute scores for all sampled images
-7) from each set of images select a pair based on the classification scores such that the two images belong to opposite classes with high certainty
+The main contribution of this paper is a pipeline that enables an unsupervised creation of synthetic paired datasets that can be used to apply chosen edits to real images. This pipeline can be described in 7 steps:  
+1) sample a lot latent vectors and corresponding images from a pretrained generator  
+2) get attribute predictions from a pretrained classifier network  
+3) select images with high classification scores for desired attributes  
+4) find the editing direction by subtracting the average latent vector of the images with the highest negative scores for the attribute from images with the most positive scores.  
+5) sample sets of latent vectors that are made up of a random vector, a vector with the edit direction subtracted from it and one with the edit direction added  
+6) predict the attribute scores for all sampled images  
+7) from each set of images select a pair based on the classification scores such that the two images belong to opposite classes with high certainty  
 
 **2) Distilation:**  
 Once the dataset is gathered any Image2Image model can be trained with it. The authors use the vanilla Pix2PixHD framework without any modifications at 512x512 resolution.
