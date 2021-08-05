@@ -66,7 +66,7 @@ There are two ways to generalize the contrastive loss to an arbitrary number of 
 - As always, if you have tried using SupCon let me know in the comments!
 
 ##### 🔗 Links:
-[SupCon arxiv](https://arxiv.org/pdf/2004.11362.pdf) / [SupCon github](https://t.ly/supcon)
+[SupCon arxiv](https://arxiv.org/pdf/2004.11362.pdf) / [SupCon github](https://github.com/HobbitLong/SupContrast)
 
 ***
 
