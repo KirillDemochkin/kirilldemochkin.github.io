@@ -4,7 +4,7 @@ title: "15: ViT Explained"
 meta_title: "ViT Explained"
 description: "An Image Is Worth 16X16 Words: Transformers For Image Recognition At Scale by Dosovitskiy et al. explained in 5 minutes."
 date: 2021-4-30 19:00:00 -0000
-categories: #large-scale-image-transformers-pretraining-classification
+categories: large-scale-image-transformers-pretraining-classification
 ---
 
 #### An Image Is Worth 16X16 Words: Transformers For Image Recognition At Scale by Dosovitskiy et al. explained in 5 minutes.
