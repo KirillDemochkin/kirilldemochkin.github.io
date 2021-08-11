@@ -22,7 +22,7 @@ This paper is a spiritual successor of Vision Transformer from last year. This t
 ##### ⌛️ Prerequisites:
 
 *(Highly recommended reading to understand the core ideas in this paper):*  
-1) [ViT](https://t.me/casual_gan/33)
+1) [ViT]({% post_url 2021-4-30-ViT-explained %})
 
 ***
 

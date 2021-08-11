@@ -23,7 +23,7 @@ In this paper from Facebook AI Research the authors propose a novel pipeline to 
 ##### ⌛️ Prerequisites:
 
 *(Highly recommended reading to understand the core ideas in this paper):*  
-1) [ViT](https://t.me/casual_gan/33)  
+1) [ViT]({% post_url 2021-4-30-ViT-explained %})  
 2) [BYOL]({% post_url 2021-7-16-BYOL-explained %})
 
 ***

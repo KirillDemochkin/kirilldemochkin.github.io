@@ -24,7 +24,7 @@ Transformers... Everywhere I look I see transformers (not the Michael Bay kind t
 
 *(Highly recommended reading to understand the core contributions of this paper):*  
 1) [Spectral Normalization](https://paperswithcode.com/method/spectral-normalization#:~:text=Spectral%20Normalization%20is%20a%20normalization,hyper-parameter%20to%20be%20tuned.)  
-2) [ViT](https://t.me/casual_gan/33)  
+2) [ViT]({% post_url 2021-4-30-ViT-explained %})
 3) [CIPS]({% post_url 2021-6-12-CIPS %})  
 
 ***
