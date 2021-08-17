@@ -3,7 +3,7 @@ layout: post
 title:  "45: StyleGAN-NADA"
 meta_title: "StyleGAN-NADA"
 description:  "StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators by Rinon Gal et al. explained in 5 minutes."
-date: 2021-8-10 22:00:00 -0000
+date: 2021-8-13 22:00:00 -0000
 categories: text-guided-CLIP-GAN-domain-adaptation
 ---
 
