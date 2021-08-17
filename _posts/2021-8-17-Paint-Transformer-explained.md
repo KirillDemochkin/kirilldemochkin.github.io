@@ -12,9 +12,8 @@ categories: image-to-painting-visual-transformer-stroke-prediction
 ##### ⭐️Paper difficulty: 🌕🌕🌕🌕🌑
 
 ***
-Paint            |  Transformer | Samples  
-:-------------------------:|:-------------------------:|:-------------------------:
-![Paint Transformer Samples Bird](/assets/images/painttransformer_teaser_1.gif "Paint Transformer teaser bird") | ![Paint Transformer Samples Boat](/assets/images/painttransformer_teaser_2.gif "Paint Transformer teaser boat") | ![Paint Transformer Samples Seagull](/assets/images/painttransformer_teaser_3.gif "Paint Transformer teaser seagull")
+
+![Paint Transformer Samples Bird](/assets/images/painttransformer_teaser.gif "Paint Transformer teaser bird")
 
 ##### 🎯 At a glance:
 
