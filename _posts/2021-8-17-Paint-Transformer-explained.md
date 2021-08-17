@@ -23,8 +23,8 @@ After seeing Paint Transformer gifs for two weeks now all over Twitter, you know
 ##### ⌛️ Prerequisites:
 
 **(Check these out if you have extra time):**  
-1)[Transformer](https://arxiv.org/abs/1706.03762)
-1)[DETR](https://arxiv.org/abs/2005.12872)
+1)[Transformer](https://arxiv.org/abs/1706.03762)  
+2)[DETR](https://arxiv.org/abs/2005.12872)
 
 ***
 
