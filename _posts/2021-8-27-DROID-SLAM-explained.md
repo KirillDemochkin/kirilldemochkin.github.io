@@ -3,7 +3,7 @@ layout: post
 title:  "49: DROID-SLAM"
 meta_title: "DROID-SLAM"
 description:  "DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras by Zachary Teed and Jia Deng explained in 5 minutes."
-date: 2021-8-24 19:00:00 -0000
+date: 2021-8-27 19:00:00 -0000
 categories: 3D-Visual-SLAM-Structure-from-Motion
 ---
 
