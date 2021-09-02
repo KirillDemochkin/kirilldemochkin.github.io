@@ -80,7 +80,7 @@ Look, the goal of any paper is to present the hard work done by the authors in o
 
 ***
 
-#### Check Out These Popular AI Paper Summaries:
+##### 🔥 Check Out These Popular AI Paper Summaries:
 - [SOTA SuperResolution - Real-ESRGAN]({% post_url 2021-7-30-Real-ESRGAN-explained %})  
 - [Sketch-based GAN domain adaptation - Sketch-Your-Own-GAN]({% post_url 2021-8-10-Sketch-Your-Own-GAN-explained %})  
 - [CVPR 2021 Best Paper - GIRAFFE]({% post_url 2021-7-8-GIRAFFE %})  
