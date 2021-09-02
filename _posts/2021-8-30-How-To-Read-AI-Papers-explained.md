@@ -55,8 +55,9 @@ Start by reading the section and subsection titles and connecting them with the 
 
 **4) Doing a sanity check of the experiments:**  
 Look, the goal of any paper is to present the hard work done by the authors in one pretty package optimized for acceptance rate. This is why sometimes a bit of details are left out here and there. This is fine most of the time (it isn't very interesting to read about a 100 variations of the model that did not work), every now and then, however, you can gain additional insights based on WHAT was left out, and WHY. To understand this:
-- Check the baselines - are there any recent methods that are left out of comparisons? b) Check the ablations - is every part of the pipeline tested for its overall contribution? Sometimes these things can get misattributed.
-- Check the data, are there any known datasets not mentioned in experimental results? Perhaps, there is a common trait they share that points out some weakness in the proposed method
+- Check the baselines - are there any recent methods that are left out of comparisons?  
+- Check the ablations - is every part of the pipeline tested for its overall contribution? Sometimes these things can get misattributed.  
+- Check the data, are there any known datasets not mentioned in experimental results? Perhaps, there is a common trait they share that points out some weakness in the proposed method  
 
 **5) Enjoy the cool results, and let the new ideas marinate a bit in your head to help you come up with exciting ways to apply them to other projects.** 
 
