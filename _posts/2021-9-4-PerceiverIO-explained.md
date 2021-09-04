@@ -2,7 +2,7 @@
 layout: post
 title:  "51: PerceiverIO"
 meta_title: "PerceiverIO"
-description:  "Perceiver IO: A General Architecture for Structured Inputs & Outputs" by Andrew Jaegle et al. explained in 5 minutes."
+description:  "Perceiver IO: A General Architecture for Structured Inputs & Outputs by Andrew Jaegle et al. explained in 5 minutes."
 date: 2021-9-4 19:00:00 -0000
 categories: cross-modal-fully-attentional-transformer
 ---
