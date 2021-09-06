@@ -6,7 +6,7 @@ description: "Popular AI papers explained in 5 minutes or less"
 
 ***
 
-[Kirill](/assets/images/kirill.jpg)
+![Kirill](/assets/images/kirill.jpg)
 
 #### Who am I?
 
