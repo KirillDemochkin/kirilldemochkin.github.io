@@ -6,6 +6,8 @@ description: "Popular AI papers explained in 5 minutes or less"
 
 ***
 
+[Kirill](/assets/images/kirill.jpg)
+
 #### Who am I?
 
 My name is **Kirill**, I am a Skoltech MSc graduate in Data Science, and I love Computer Vision, Deep Learning, and especially GANs.
