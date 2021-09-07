@@ -78,7 +78,6 @@ Image matting and segmentation training iterations are interleaved, and the whol
 - [SOTA 3D-aware Head Generation - FLAME-in-NeRF]({% post_url 2021-8-24-Flame-in-NeRF-explained %})
 
 ##### 👋 Thanks for reading!
-<
 <a href="https://www.patreon.com/bePatron?u=53448948" data-patreon-widget-type="become-patron-button">Join Patreon for Exclusive Perks!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 *If you found this paper digest useful, **subscribe** and **share** the post with your friends and colleagues to support Casual GAN Papers!*
