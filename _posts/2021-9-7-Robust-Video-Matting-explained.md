@@ -72,6 +72,11 @@ Image matting and segmentation training iterations are interleaved, and the whol
 
 ***
 
+##### 🔥 Check Out These Popular AI Paper Summaries:
+- [Cross-modal Transformer - PerceiverIO]({% post_url 2021-9-4-PerceiverIO-explained %})
+- [Deep Visual SLAM - DROID-SLAM]({% post_url 2021-8-27-DROID-SLAM-explained %})
+- [SOTA 3D-aware Head Generation - FLAME-in-NeRF]({% post_url 2021-8-24-Flame-in-NeRF-explained %})
+
 ##### 👋 Thanks for reading!
 <
 <a href="https://www.patreon.com/bePatron?u=53448948" data-patreon-widget-type="become-patron-button">Join Patreon for Exclusive Perks!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
