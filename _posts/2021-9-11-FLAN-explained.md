@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "53: FLAN"
+title: "53: FLAN"
 meta_title: "FLAN"
-description:  "Finetuned Language Models Are Zero-Shot Learners by Jason Wei et al. explained in 5 minutes."
+description: "Finetuned Language Models Are Zero-Shot Learners by Jason Wei et al. explained in 5 minutes."
 date: 2021-9-11 16:00:00 -0000
 categories: prompt-engineering-fine-tune-zero-shot-language-model
 ---
@@ -43,7 +43,7 @@ Tasks for fine-tuning FLAN are limited to 30k examples, and all reported experim
   
 ##### 📈 Experiment insights / Key takeaways:
 
-- FLAN > GPT-3 on 19/25 tasks
+- FLAN is better than GPT-3 on 19/25 tasks
 - GPT-3 wins on TriviaQA (Open-Domain QA), HellaSwag, PiQA, ReCoRD, WSC273, Winogrande (Commonsense reasoning & coreference resolution)
 - Intuition for the results is that for the tasks above instructions are not crucial for describing the task
 - More clusters & larger model -> better results
@@ -78,7 +78,7 @@ Tasks for fine-tuning FLAN are limited to 30k examples, and all reported experim
 ##### 🔥 Check Out These Popular AI Paper Summaries:
 - [Cross-modal Transformer - PerceiverIO]({% post_url 2021-9-4-PerceiverIO-explained %})
 - [Deep Visual SLAM - DROID-SLAM]({% post_url 2021-8-27-DROID-SLAM-explained %})
-- [SOTA - Robust Video Matting]({% post_url 2021-9-7-Robust-Videо-Matting-explained %})
+- [SOTA - Robust Video Matting]({% post_url 2021-9-7-Robust-Video-Matting-explained %})
 
 ##### 👋 Thanks for reading!
 <a href="https://www.patreon.com/bePatron?u=53448948" data-patreon-widget-type="become-patron-button">Join Patreon for Exclusive Perks!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
