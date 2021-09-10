@@ -7,7 +7,7 @@ date: 2021-4-6 19:00:00 -0000
 categories: eccv-3d-novel-view-synthesis-differentiable-rendering-implicit-representation
 ---
 
-#### ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement by Yuval et al. explained in 5 minutes.
+#### NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis by Mildenhall et al. explained in 5 minutes.
 
 ##### ⭐️Paper difficulty: 🌕🌕🌕🌕🌑
 
