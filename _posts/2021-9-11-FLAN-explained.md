@@ -2,12 +2,12 @@
 layout: post
 title:  "53: FLAN"
 meta_title: "FLAN"
-description:  "Finetuned Language Models Are Zero-Shot Learners by Jason Wei et al. explained in 5 minutes. explained in 5 minutes."
+description:  "Finetuned Language Models Are Zero-Shot Learners by Jason Wei et al. explained in 5 minutes."
 date: 2021-9-11 16:00:00 -0000
 categories: prompt-engineering-fine-tune-zero-shot-language-model
 ---
 
-#### Finetuned Language Models Are Zero-Shot Learners by Jason Wei et al. explained in 5 minutes. explained in 5 minutes.
+#### Finetuned Language Models Are Zero-Shot Learners by Jason Wei et al. explained in 5 minutes.
 
 ##### ⭐️Paper difficulty: 🌕🌕🌑🌑🌑
 
