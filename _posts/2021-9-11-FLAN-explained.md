@@ -78,7 +78,7 @@ Tasks for fine-tuning FLAN are limited to 30k examples, and all reported experim
 ##### 🔥 Check Out These Popular AI Paper Summaries:
 - [Cross-modal Transformer - PerceiverIO]({% post_url 2021-9-4-PerceiverIO-explained %})
 - [Deep Visual SLAM - DROID-SLAM]({% post_url 2021-8-27-DROID-SLAM-explained %})
-- [SOTA - Robust Video Matting]({% post_url 2021-9-7-Robust-Vide-Matting-explained %})
+- [SOTA - Robust Video Matting]({% post_url 2021-9-7-Robust-Videо-Matting-explained %})
 
 ##### 👋 Thanks for reading!
 <a href="https://www.patreon.com/bePatron?u=53448948" data-patreon-widget-type="become-patron-button">Join Patreon for Exclusive Perks!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
