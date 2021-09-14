@@ -71,7 +71,7 @@ Tasks for fine-tuning FLAN are limited to 30k examples, and all reported experim
 - What do you think about the results of FLAN? Let's discuss in the comments!
 
 ##### 🔗 Links:
-[Robust Video Matting arxiv](https://arxiv.org/pdf/2109.01652v1.pdf) / [Robust Video Matting github](https://github.com/google-research/flan)
+[FLAN arxiv](https://arxiv.org/pdf/2109.01652v1.pdf) / [FLAN github](https://github.com/google-research/flan)
 
 ***
 
