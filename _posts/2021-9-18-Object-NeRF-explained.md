@@ -4,7 +4,7 @@ title: "55: Object-NeRF"
 meta_title: "Object-NeRF"
 description: "Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering by Bangbang Yang et al. explained in 5 minutes."
 date: 2021-9-18 16:00:00 -0000
-categories: мulti-оbject-NeRF-3D-scene-editing
+categories: multi-object-NeRF-3D-scene-editing
 ---
 
 #### Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering by Bangbang Yang et al. explained in 5 minutes.
