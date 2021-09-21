@@ -18,7 +18,7 @@ That is why **I read about 5-7 new papers a week** just to stay up to date with 
 
 **Reading and understanding all of these papers is tough**, hence I started *Casual GAN Papers* - to record an easy to understand summary of the main ideas from the most interesting papers that I read as well as my thoughts on those papers.
 
-If you always find yourself saving interesting papers to your reading list but never get around to reading them, then *Casual GAN Papers* is for you!
+If your reading backlog is bigger than the number of tweets AK posts in a day, then *Casual GAN Papers* is for you!
 
 ***
 
