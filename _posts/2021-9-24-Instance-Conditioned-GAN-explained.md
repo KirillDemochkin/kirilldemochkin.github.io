@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "56: IC-GAN"
+title: "57: IC-GAN"
 meta_title: "IC-GAN"
 description: "Instance-Conditioned GAN by Arantxa Casanova et al. explained in 5 minutes."
 date: 2021-9-24 16:00:00 -0000
