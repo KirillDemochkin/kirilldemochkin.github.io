@@ -54,7 +54,7 @@ And that is it. Almost. Just one small thing left: for class-conditional generat
 
 ##### 🖼️ Paper Poster:
 
-![GSN paper poster](/assets/images/icgan.png "GSN Paper Poster")
+![GSN paper poster](/assets/images/icgan.jpg "GSN Paper Poster")
 
 ***
 
