@@ -81,7 +81,7 @@ The weights are approximated by running a regular PatchMatch where the Query and
 
 ##### 🔥 Check Out These Popular AI Paper Summaries:
 - [Editable 3D Scenes - Object-NeRF]({% post_url 2021-9-18-Object-NeRF-explained %})
-- [Instance Conditioned GAN - Arbitrary similar image generation]({% post_url 2021-9-24-Instance-Conditioned-GANN-explained %})
+- [Instance Conditioned GAN - Arbitrary similar image generation]({% post_url 2021-9-24-Instance-Conditioned-GAN-explained %})
 - [GSN - Generative Scene Networks (VR NeRF)]({% post_url 2021-9-21-GSN-explained %})
 
 ##### 👋 Thanks for reading!
