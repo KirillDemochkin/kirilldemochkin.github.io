@@ -75,7 +75,7 @@ The authors just switch instance norm for layer norm in the AdaIN and call in Ad
 - Do you have any questions left about ISF-GAN? Let’s discuss in the comments!
 
 ##### 🔗 Links:
-[VGPNN arxiv](https://arxiv.org/pdf/2109.12492.pdf) / [VGPNN github](https://github.com/yhlleo/stylegan-mmuit) <- Available later?
+[ISF-GAN arxiv](https://arxiv.org/pdf/2109.12492.pdf) / [ISF-GAN github](https://github.com/yhlleo/stylegan-mmuit) <- Available later?
 
 ***
 
