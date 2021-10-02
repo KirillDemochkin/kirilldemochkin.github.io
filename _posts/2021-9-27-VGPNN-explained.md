@@ -2,12 +2,12 @@
 layout: post
 title: "58: VGPNN"
 meta_title: "VGPNN"
-description: "Diverse Generation from a Single Video Made Possible by Niv Haim, Ben Feinstein et al."
+description: "Diverse Generation from a Single Video Made Possible by Niv Haim, Ben Feinstein et al. explained in 5 minutes."
 date: 2021-9-27 16:00:00 -0000
 categories: patch-matching-single-video-input-diverse-video-generation
 ---
 
-#### Diverse Generation from a Single Video Made Possible by Niv Haim, Ben Feinstein et al.
+#### Diverse Generation from a Single Video Made Possible by Niv Haim, Ben Feinstein et al. explained in 5 minutes.
 
 ##### ⭐️Paper difficulty: 🌕🌕🌕🌑🌑
 
