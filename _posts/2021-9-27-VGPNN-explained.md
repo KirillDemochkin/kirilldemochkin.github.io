@@ -22,8 +22,8 @@ Imagine a model that can take a single video, and generate diverse high-quality 
 ##### ⌛️ Prerequisites:
 
 **(Highly recommended reading to understand the core contributions of this paper):**  
-1) [PatchMatch](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/patchmatch.pdf)
-2) [GPNN](https://arxiv.org/abs/2103.15545)
+1) [PatchMatch](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/patchmatch.pdf)  
+2) [GPNN](https://arxiv.org/abs/2103.15545)  
 
 ***
 

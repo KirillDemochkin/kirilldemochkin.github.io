@@ -21,8 +21,8 @@ GAN-based editing is great, we all know that! Do you know what isn’t? Figuring
 
 ##### ⌛️ Prerequisites:
 
-**(Highly recommended reading to understand the core contributions of this paper):**
-1) [StyleGAN2](https://github.com/NVlabs/stylegan2)
+**(Highly recommended reading to understand the core contributions of this paper):**  
+1) [StyleGAN2](https://github.com/NVlabs/stylegan2)  
 
 ***
 
@@ -58,7 +58,7 @@ Essentially, the method consists of two parts. A matrix with either orthonormal 
 ##### 🛠 Possible Improvements:
 
 - use RBF instead of linear directions (spoiler: this is the topic of the next paper)
--
+
 ##### ✏️My Notes:
 
 - (-/5) Did the authors forget to name their model?

@@ -23,7 +23,7 @@ I often find myself wishing I knew how to edit images in photoshop but I remembe
 
 **(Highly recommended reading to understand the core contributions of this paper):**  
 1) [StyleGAN2](https://github.com/NVlabs/stylegan2)  
-2) [StyleFlow](https://github.com/RameenAbdal/StyleFlow) (optional)
+2) [StyleFlow](https://github.com/RameenAbdal/StyleFlow) (optional)  
 
 ***
 
