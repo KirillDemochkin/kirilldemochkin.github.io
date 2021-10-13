@@ -7,7 +7,7 @@ date: 2021-10-12 19:00:00 -0000
 categories: unsupervised-discovery-nonlinear-latent-editing-directions-generator
 ---
 
-#### StyleNeRF" by Anonymous ICLR 2022 submission explained in 5 minutes.
+#### StyleNeRF by Anonymous ICLR 2022 submission explained in 5 minutes.
 
 ##### ⭐️Paper difficulty: 🌕🌕🌕🌕🌑
 
