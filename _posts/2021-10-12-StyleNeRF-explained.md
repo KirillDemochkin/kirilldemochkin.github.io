@@ -81,7 +81,7 @@ More referenced papers, yay! The authors actually use NeRF++ and its dual branch
 - Share your thoughts on StyleNeRF in the comments!
 
 ##### 🔗 Links:
-[WarpedGANSpace arxiv](https://arxiv.org/pdf/2109.13357v1.pdf) / WarpedGANSpace github (Coming Soon)
+[WarpedGANSpace arxiv](https://openreview.net/forum?id=iUuzzTMUw9K) / WarpedGANSpace github (Coming Soon)
 
 ***
 
