@@ -23,11 +23,11 @@ It’s a NeRF, it’s a GAN it’s Superman StyleNeRF. But no for real, it happe
 
 **(Highly recommended reading to understand the core contributions of this paper):**  
 1) [StyleGAN2](https://github.com/NVlabs/stylegan2)  
-2) [NeRF]({% post_url 2021-4-6-NeRF-explained %})
-3) [NeRF++](https://arxiv.org/abs/2010.07492)
-4) [PixelShuffle](https://arxiv.org/pdf/1609.05158v2.pdf)
-5) [Alias-Free GAN]({% post_url 2021-6-25-AliasFreeGAN %})
-6) [StyleCLIP](https://t.me/casual_gan/18)
+2) [NeRF]({% post_url 2021-4-6-NeRF-explained %})  
+3) [NeRF++](https://arxiv.org/abs/2010.07492)  
+4) [PixelShuffle](https://arxiv.org/pdf/1609.05158v2.pdf)  
+5) [Alias-Free GAN]({% post_url 2021-6-25-AliasFreeGAN %})  
+6) [StyleCLIP](https://t.me/casual_gan/18)  
 
 ***
 
