@@ -70,7 +70,7 @@ More referenced papers, yay! The authors actually use NeRF++ and its dual branch
 
 - Guarantee 3d consistency more strictly
 - Improve recovered geometry from learned density
-- 
+
 ##### ✏️My Notes:
 
 - (4/5) for the name. A bit of low-hanging fruit, but who am I kidding, this is a solid name!
