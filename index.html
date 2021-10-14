@@ -29,7 +29,13 @@ logo: '/assets/images/cgp_logo.png'
                 {% if site.description %} {{ site.description }}. {% endif %}
                 {% if page.about %} <a href='{{page.about | relative_url}}'> About CGP </a> {% endif %}
             </h2>
-            <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/YJ5kfAeStQbkJ8WAA">Take a quick survey to help improve Casual GAN Papers!</a>
+            <h4 class="page-description">
+                <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/YJ5kfAeStQbkJ8WAA">Take a quick survey to help improve Casual GAN Papers!</a>
+            </h4>
+            <div id="search-demo-container">
+                <input type="search" id="search-input" placeholder="search...">
+                <ul id="results-container"></ul>
+            </div>
 
         </div>
     </div>
