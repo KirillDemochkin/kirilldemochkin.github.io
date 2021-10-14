@@ -699,9 +699,19 @@ margin on the iframe, cause it breaks stuff. */
     color: #fff;
 }
 
-.page-description {
+.survey-link {
     margin: 0;
     font-size: 2rem;
+    line-height: 1.5em;
+    font-weight: 400;
+    font-family: "Merriweather", serif;
+    letter-spacing: 0.01rem;
+    color: rgba(255,255,255,0.9);
+}
+
+.page-description {
+    margin: 0;
+    font-size: 1.3rem;
     line-height: 1.5em;
     font-weight: 400;
     font-family: "Merriweather", serif;
