@@ -717,10 +717,6 @@ margin on the iframe, cause it breaks stuff. */
     padding-bottom: 4rem;
 }
 
-.search-bar:focus {
-    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
-}
-
 .search-bar input {
     border-radius: 12px;
     width: 100%;
@@ -737,6 +733,7 @@ margin on the iframe, cause it breaks stuff. */
 
 .search-bar input:active, .search-bar input:focus {
     outline: none;
+
 }
 
 .float-container {
@@ -746,6 +743,10 @@ margin on the iframe, cause it breaks stuff. */
     left: 0;
     z-index: 3;
     background: rgba(250, 250, 250, 1.0);
+}
+
+.float-container:focus, .float-container:active {
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
 }
 
 .search-results-container {
