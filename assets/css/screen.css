@@ -745,7 +745,7 @@ margin on the iframe, cause it breaks stuff. */
     background: rgba(250, 250, 250, 1.0);
 }
 
-.float-container:focus, .float-container:active {
+.search-bar:focus-within {
     box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
 }
 
