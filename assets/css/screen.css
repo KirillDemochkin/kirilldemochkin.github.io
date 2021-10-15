@@ -700,13 +700,21 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .survey-link {
-    margin: 0;
+    margin: 4px 0 0 0;
     font-size: 1.7rem;
     line-height: 1.5em;
     font-weight: 400;
     font-family: "Merriweather", serif;
     letter-spacing: 0.01rem;
     color: rgba(255,255,255,0.9);
+}
+
+.search-bar {
+    position: relative;
+    width: 80%;
+    max-width: 710px;
+    margin: 4rem auto;
+    padding-bottom: 4rem;
 }
 
 .page-description {
