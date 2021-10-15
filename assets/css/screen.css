@@ -718,6 +718,9 @@ margin on the iframe, cause it breaks stuff. */
     z-index: 3;
 }
 
+.search-bar:focus {
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+}
 
 .search-bar input {
     border-radius: 12px;
@@ -733,12 +736,7 @@ margin on the iframe, cause it breaks stuff. */
     border: 1px solid rgba(74, 74, 74, 0.7);
 }
 
-.search-bar input:hover {
-    box-shadow:none;
-}
-
 .search-bar input:active, .search-bar input:focus {
-    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
     outline: none;
 }
 
@@ -751,7 +749,6 @@ margin on the iframe, cause it breaks stuff. */
 
 .search-results-container {
     width: 100%;
-    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
     padding-top: 12px;
 }
 
@@ -765,6 +762,7 @@ margin on the iframe, cause it breaks stuff. */
     letter-spacing: 0.01rem;
     color: rgba(74, 74, 74, 1.0);
     list-style-type: none;
+    border-radius: 12px;
 }
 
 .page-description {
