@@ -733,7 +733,7 @@ margin on the iframe, cause it breaks stuff. */
 
 .search-bar input:active, .search-bar input:focus {
     outline: none;
-
+    border: none;
 }
 
 .float-container {
