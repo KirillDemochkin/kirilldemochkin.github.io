@@ -720,6 +720,7 @@ margin on the iframe, cause it breaks stuff. */
 
 .search-bar .input {
     border-radius: 8px;
+    width: 100%;
     padding: 4px 8px 4px 8px;
     margin: 0;
     font-size: 2rem;
