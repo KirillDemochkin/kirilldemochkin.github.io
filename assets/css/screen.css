@@ -740,7 +740,7 @@ margin on the iframe, cause it breaks stuff. */
     border: 1px solid rgba(74, 74, 74, 1);
 }
 
-.search-bar .ul {
+.search-bar ul {
     margin: 0;
     font-size: 2rem;
     line-height: 1.5em;
