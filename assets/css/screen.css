@@ -701,7 +701,7 @@ margin on the iframe, cause it breaks stuff. */
 
 .survey-link {
     margin: 0;
-    font-size: 2rem;
+    font-size: 1.7rem;
     line-height: 1.5em;
     font-weight: 400;
     font-family: "Merriweather", serif;
@@ -711,7 +711,7 @@ margin on the iframe, cause it breaks stuff. */
 
 .page-description {
     margin: 0;
-    font-size: 1.3rem;
+    font-size: 2rem;
     line-height: 1.5em;
     font-weight: 400;
     font-family: "Merriweather", serif;
