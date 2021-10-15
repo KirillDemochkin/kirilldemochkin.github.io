@@ -720,8 +720,9 @@ margin on the iframe, cause it breaks stuff. */
 .search-bar input {
     border-radius: 12px;
     width: 100%;
-    padding: 4px 0 4px 8px;
-    margin: 0 0 4px 0;
+    max-width: 710px;
+    padding: 8px 12px 8px 12px;
+    margin: 0 0 8px 0;
     font-size: 1.7rem;
     line-height: 1.5em;
     font-weight: 400;
@@ -738,6 +739,7 @@ margin on the iframe, cause it breaks stuff. */
 
 .float-container {
     width: 100%;
+    max-width: 710px;
     position: absolute;
     top: 0;
     left: 0;
