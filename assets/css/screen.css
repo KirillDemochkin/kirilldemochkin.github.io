@@ -700,7 +700,7 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .survey-link {
-    margin: 4px 0 0 0;
+    margin: 12px 0 0 0;
     font-size: 1.7rem;
     line-height: 1.5em;
     font-weight: 400;
@@ -768,7 +768,7 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .page-description {
-    margin: 0;
+    margin: 4px 0 0 0;
     font-size: 2rem;
     line-height: 1.5em;
     font-weight: 400;
