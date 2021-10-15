@@ -715,7 +715,6 @@ margin on the iframe, cause it breaks stuff. */
     max-width: 710px;
     margin: 4rem auto;
     padding-bottom: 4rem;
-    z-index: 3;
 }
 
 .search-bar:focus {
@@ -745,6 +744,7 @@ margin on the iframe, cause it breaks stuff. */
     position: absolute;
     top: 0;
     left: 0;
+    background: rgba(245, 248, 250, 1.0);
 }
 
 .search-results-container {
