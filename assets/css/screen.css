@@ -716,10 +716,12 @@ margin on the iframe, cause it breaks stuff. */
     margin: 4rem auto;
     padding-bottom: 4rem;
     z-index: 2;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
 .search-bar input {
-    border-radius: 8px;
+    border-radius: 12px;
     width: 100%;
     padding: 4px 8px 4px 8px;
     margin: 0;
