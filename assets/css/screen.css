@@ -697,7 +697,7 @@ margin on the iframe, cause it breaks stuff. */
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
     color: #fff;
-}
+}act
 
 .survey-link {
     margin: 4px 0 0 0;
@@ -723,12 +723,21 @@ margin on the iframe, cause it breaks stuff. */
     width: 100%;
     padding: 4px 8px 4px 8px;
     margin: 0;
-    font-size: 2rem;
+    font-size: 1.7rem;
     line-height: 1.5em;
     font-weight: 400;
     font-family: "Merriweather", serif;
     letter-spacing: 0.01rem;
     color: rgba(255,255,255,0.8);
+    border: 2px solid rgba(74, 74, 74, 0.9);
+}
+
+.search-bar:hover {
+    border: 2px solid rgba(74, 74, 74, 0.9);
+}
+
+.search-bar:active, .search-bar:focus {
+    border: 2px solid rgba(74, 74, 74, 1);
 }
 
 .search-bar .ul {
@@ -738,7 +747,7 @@ margin on the iframe, cause it breaks stuff. */
     font-weight: 400;
     font-family: "Merriweather", serif;
     letter-spacing: 0.01rem;
-    color: #4A4A4A;
+    color: rgba(74, 74, 74, 1.0);
     list-style-type: none;
 }
 
