@@ -732,11 +732,11 @@ margin on the iframe, cause it breaks stuff. */
     border: 2px solid rgba(74, 74, 74, 0.9);
 }
 
-.search-bar:hover {
+.search-bar input:hover {
     border: 2px solid rgba(74, 74, 74, 0.9);
 }
 
-.search-bar:active, .search-bar:focus {
+.search-bar input:active, .search-bar:focus {
     border: 2px solid rgba(74, 74, 74, 1);
 }
 
