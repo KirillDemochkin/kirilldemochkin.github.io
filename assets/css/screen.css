@@ -721,7 +721,7 @@ margin on the iframe, cause it breaks stuff. */
     border-radius: 12px;
     width: 100%;
     padding: 4px 0 4px 8px;
-    margin: 0;
+    margin: 0 0 4px 0;
     font-size: 1.7rem;
     line-height: 1.5em;
     font-weight: 400;
@@ -749,12 +749,7 @@ margin on the iframe, cause it breaks stuff. */
     box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
 }
 
-.search-results-container {
-    width: 100%;
-    padding-top: 12px;
-}
-
-.search-results-container ul {
+.float-container ul {
     overflow-y: scroll;
     max-height: 200px;
     margin: 2px 0 2px 0;
