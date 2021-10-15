@@ -728,7 +728,7 @@ margin on the iframe, cause it breaks stuff. */
     font-family: "Merriweather", serif;
     letter-spacing: 0.01rem;
     color: rgba(74, 74, 74, 1);
-    border: 1px solid rgba(74, 74, 74, 1);
+    border: 1px solid rgba(74, 74, 74, 0.7);
 }
 
 .search-bar input:active, .search-bar input:focus {
@@ -742,7 +742,7 @@ margin on the iframe, cause it breaks stuff. */
     top: 0;
     left: 0;
     z-index: 3;
-    background: rgba(255, 255 255, 1.0);
+    background: rgba(255, 255, 255, 1.0);
     border-radius: 12px;
 }
 
@@ -753,7 +753,7 @@ margin on the iframe, cause it breaks stuff. */
 .float-container ul {
     overflow-y: scroll;
     max-height: 200px;
-    margin: 2px 0 2px 0;
+    margin: 8px 0 2px 0;
     font-size: 2rem;
     line-height: 1.5em;
     font-weight: 400;
