@@ -2,12 +2,12 @@
 layout: post
 title: "63: LaMa"
 meta_title: "LaMa"
-description: "Resolution-robust Large Mask Inpainting with Fourier Convolutions by Suvorov et al."
+description: "Resolution-robust Large Mask Inpainting with Fourier Convolutions by Suvorov et al. explained in 5 minutes"
 date: 2021-10-16 19:00:00 -0000
 categories: large-masks-fourier-convolutions-inpainting
 ---
 
-#### Resolution-robust Large Mask Inpainting with Fourier Convolutions by Suvorov et al.
+#### Resolution-robust Large Mask Inpainting with Fourier Convolutions by Suvorov et al. explained in 5 minutes
 
 ##### ⭐️Paper difficulty: 🌕🌕🌕🌕🌑
 
