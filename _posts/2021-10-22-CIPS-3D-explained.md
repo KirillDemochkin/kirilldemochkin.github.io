@@ -3,7 +3,7 @@ layout: post
 title: "65: CIPS-3D"
 meta_title: "CIPS-3D"
 description: "CIPS-3D: A 3D-Aware Generator of GANs Based on Conditionally-Independent Pixel Synthesis by Peng Zhou et al. explained in 5 minutes"
-date: 2021-10-12 19:00:00 -0000
+date: 2021-10-22 19:00:00 -0000
 categories: 3D-aware-GAN-based-on-CIPS-and-NeRF
 ---
 
@@ -22,7 +22,7 @@ If you have been following generative ML for a while you might have noticed more
 ##### ⌛️ Prerequisites:
 
 **(Highly recommended reading to understand the core contributions of this paper):**  
-1) [CIPS]({% post_url 2021-6-12-CIPS-explained %})
+1) [CIPS]({% post_url 2021-6-12-CIPS-explained %})  
 2) [NeRF]({% post_url 2021-4-6-NeRF-explained %})
 
 ***
