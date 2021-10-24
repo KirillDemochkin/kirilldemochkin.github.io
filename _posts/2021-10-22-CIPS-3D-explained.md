@@ -13,7 +13,7 @@ categories: 3D-aware-GAN-based-on-CIPS-and-NeRF
 
 ***
 
-![CIPS-3D teaser](/assets/images/cips_teaser.gif "CIPS-3D Teaser")
+![CIPS-3D teaser](/assets/images/cips3d_teaser.gif "CIPS-3D Teaser")
 
 ##### 🎯 At a glance:
 
@@ -57,7 +57,7 @@ Apparently, 3D-aware models suffer from a mirror symmetry problem, where synthes
 
 ##### 🖼️ Paper Poster:
 
-![Sensorium poster](/assets/images/cips3d.jpg "Sensorium Paper Poster")
+![CIPS-3D poster](/assets/images/cips3d.jpg "CIPS-3D Paper Poster")
 
 ***
 
