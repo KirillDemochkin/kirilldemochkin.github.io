@@ -23,7 +23,7 @@ Linear directions are great for GAN-based image editing, but who is to say that 
 
 **(Highly recommended reading to understand the core contributions of this paper):**  
 1) [StyleGAN2](https://github.com/NVlabs/stylegan2)  
-2) [Unsupervised Direction Discovery](https://t.me/casual_gan/136)  
+2) [Unsupervised Direction Discovery]({% post_url 2021-10-5-Unsupervised-Directions-Discovery-explained %})
 
 ***
 
