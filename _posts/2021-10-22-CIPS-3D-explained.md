@@ -22,7 +22,8 @@ If you have been following generative ML for a while you might have noticed more
 ##### ⌛️ Prerequisites:
 
 **(Highly recommended reading to understand the core contributions of this paper):**  
-
+1) [CIPS]({% post_url 2021-6-12-CIPS %})  
+2) [NeRF]({% post_url 2021-4-6-NeRF-explained %})
 
 ***
 
@@ -80,7 +81,9 @@ Apparently, 3D-aware models suffer from a mirror symmetry problem, where synthes
 ***
 
 ##### 🔥 Check Out These Popular AI Paper Summaries:  
-
+- [SOTA High Resolution Inpainting - LaMa explained]({% post_url 2021-10-16-LaMa-explained %})  
+- [Sensorium = disentangled content + style image-to-image translation]({% post_url 2021-10-19-Sensorium-explained %})  
+- [StyleGAN + NeRF = StyleNeRF]({% post_url 2021-10-12-StyleNeRF-explained %})  
 
 ##### 👋 Thanks for reading!
 <a href="https://www.patreon.com/bePatron?u=53448948" data-patreon-widget-type="become-patron-button">Join Patreon for Exclusive Perks!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
