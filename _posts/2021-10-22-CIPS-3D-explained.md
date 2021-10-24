@@ -48,8 +48,8 @@ Apparently, 3D-aware models suffer from a mirror symmetry problem, where synthes
 
 - Datasets: FFHQ
 - Baselines: CIPS-3D outperforms GIRAFFE, pi-GAN, StyleNeRF in terms of FID and KID and almost matches StyleGAN-2 on 2D images
-- 27.78 batches/second with batch size of 4096 on 8 V100
-- Ablations: adding viewing direction - identity inconsistencies, learned positional encoding w/o the auxiliary discriminator hurts FID, 96x96 pixels is enough for the partial backpropagation to work almost as good as using all pixels
+- 27.78 batches per second with batch size of 4096 on 8 V100
+- Ablations: adding viewing direction - identity inconsistencies, learned positional encoding without the auxiliary discriminator hurts FID, 96x96 pixels is enough for the partial backpropagation to work almost as good as using all pixels
 - By freezing the NeRF layer and fine-tuning the INR, it is possible to do transfer learning to a different domain
 - Swapping or interpolating INR layers between different models has the same effect as cartoonization in StyleGAN2
 
@@ -67,7 +67,7 @@ Apparently, 3D-aware models suffer from a mirror symmetry problem, where synthes
 
 ##### ✏️My Notes:
 
-- (2/5) CIPS-3D - not very clever nor funny :(
+- (2/5) CIPS-3D is a so-so name - not very clever nor funny 
 - Real happy to see a CIPS follow-up!
 - Partial gradients are a great idea, I had a lot of headaches fitting things into memory when inverting CIPS
 - Unfortunately, there is still the heavy texture sticking that plagued CIPS, and the results are in 256x256
@@ -80,10 +80,10 @@ Apparently, 3D-aware models suffer from a mirror symmetry problem, where synthes
 
 ***
 
-##### 🔥 Check Out These Popular AI Paper Summaries:
-- [SOTA High Resolution Inpainting - LaMa explained]({% post_url 2021-10-16-LaMa-explained %})
-- [Sensorium - disentangled content + style image-to-image translation]({% post_url 2021-10-19-Sensorium-explained %})
-- [StyleGAN + NeRF = StyleNeRF]({% post_url 2021-10-12-StyleNeRF-explained %})
+##### 🔥 Check Out These Popular AI Paper Summaries:  
+- [SOTA High Resolution Inpainting - LaMa explained]({% post_url 2021-10-16-LaMa-explained %})  
+- [Sensorium - disentangled content + style image-to-image translation]({% post_url 2021-10-19-Sensorium-explained %})  
+- [StyleGAN + NeRF = StyleNeRF]({% post_url 2021-10-12-StyleNeRF-explained %})  
 
 ##### 👋 Thanks for reading!
 <a href="https://www.patreon.com/bePatron?u=53448948" data-patreon-widget-type="become-patron-button">Join Patreon for Exclusive Perks!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
