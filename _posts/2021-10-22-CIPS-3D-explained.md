@@ -7,7 +7,7 @@ date: 2021-10-22 19:00:00 -0000
 categories: 3D-aware-GAN-based-on-CIPS-and-NeRF
 ---
 
-#### CIPS-3D: A 3D-Aware Generator of GANs Based on Conditionally-Independent Pixel Synthesis by Peng Zhou et al.
+#### CIPS-3D: A 3D-Aware Generator of GANs Based on Conditionally-Independent Pixel Synthesis by Peng Zhou et al. explained in 5 minutes
 
 ##### ⭐️Paper difficulty: 🌕🌕🌕🌑🌑
 
