@@ -82,7 +82,7 @@ Apparently, 3D-aware models suffer from a mirror symmetry problem, where synthes
 
 ##### 🔥 Check Out These Popular AI Paper Summaries:  
 - [SOTA High Resolution Inpainting - LaMa explained]({% post_url 2021-10-16-LaMa-explained %})  
-- [Sensorium - disentangled content + style image-to-image translation]({% post_url 2021-10-19-Sensorium-explained %})  
+- [Sensorium = disentangled content + style image-to-image translation]({% post_url 2021-10-19-Sensorium-explained %})  
 - [StyleGAN + NeRF = StyleNeRF]({% post_url 2021-10-12-StyleNeRF-explained %})  
 
 ##### 👋 Thanks for reading!
