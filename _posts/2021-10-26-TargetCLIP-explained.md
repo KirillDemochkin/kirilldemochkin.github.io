@@ -72,7 +72,7 @@ For each target image, 6 random source images are considered, the edit direction
 - Share your thoughts on TargetCLIP in the comments!
 
 ##### 🔗 Links:
-[TargetCLIP arxiv](https://arxiv.org/pdf/2110.09788.pdf) / [TargetCLIP github](https://github.com/PeterouZh/CIPS-3D)
+[TargetCLIP arxiv](https://arxiv.org/pdf/2110.09788.pdf) / [TargetCLIP github](https://github.com/PeterouZh/CIPS-3D) / [TargetCLIP Demo](https://colab.research.google.com/github/hila-chefer/TargetCLIP/blob/main/TargetCLIP_CLIP_guided_image_essence_transfer.ipynb)
 
 ***
 
