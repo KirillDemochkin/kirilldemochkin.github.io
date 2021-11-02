@@ -64,7 +64,7 @@ Take care,
 -Kirill  
 
 ##### 🔗 Links:
-[VQGAN + CLIP huggingsfacd](https://huggingface.co/spaces/akhaliq/VQGAN_CLIP) - slower with pretty UI  
+[VQGAN + CLIP huggingface space](https://huggingface.co/spaces/akhaliq/VQGAN_CLIP) - slower with pretty UI  
 [VQGAN + CLIP colab](https://colab.research.google.com/drive/1L8oL-vLJXVcRzCFbPwOoMkPKJ8-aYdPN#scrollTo=g7EDme5RYCrt) - faster text-based UI
 
 ***
