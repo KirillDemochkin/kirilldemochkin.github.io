@@ -36,10 +36,13 @@ One of the main AdaIN drawbacks is that the image statistics are computed global
 
 **1) Overview:**  
 AdaConv modifies AdaIn in two ways. First, it replaces the scale term with a predicted 2d convolutional kernel that modulates the feature channel in a spatially-varying way. Second, it turns that convolution into a depthwise separable convolution with another predicted kernel which helps it better model the correlation between channels. Interestingly, the number of kernels of both types (pointwise and depthwise) can be arbitrarily large.
+
 **2) Style Transfer with AdaConv:**  
 The network is an encoder-decoder-style model where the content and style images are encoded with a pretrained VGG-19. The style features are further processed with a style encoder to obtain the global style descriptor that is used by the kernel prediction networks to output the depthwise separable convolutional kernels with per-channel biases. There are 4 in total and the predicted kernels are injected into all layers of the decoder right before the regular convolutions at different resolutions. The model is trained with the VGG-19 feature space content and style losses.
+
 **3) Style Encoder:**  
 The output of the pretrained VGG network is (512, 32, 32), hence a small convnet with a fully-connected layer is trained on top of the VGG-19 to convert its output to a style vector. In effect, the style image is constrained to a fixed 256x256 size, while the content image can be of any dimension.
+
 **4) Predicting Depthwise-Separable Convolutions**  
 Each kernel predictor module consists of three small convnets that output the depthwise spatial kernel, the pointwise 1x1 kernel, and the per-channel biases. While all three submodules receive a reshaped global style tensor of the same size, the latter two use average pooling and 1x1 Conv to predict their parameters. The kernel predictor layers at higher resolutions use less channels in the depthwise kernel to account for the gradually reducing depth and increasing spatial size of the decoded image.
 
