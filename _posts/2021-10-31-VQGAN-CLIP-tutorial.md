@@ -7,7 +7,7 @@ date: 2021-10-31 19:00:00 -0000
 categories: howto-CLIP-VQGAN-text-guided-image-generation-explained
 ---
 
-#### VQGAN + CLIP Tutorial and Colab Walkthrough
+#### I GAN Explain: VQGAN + CLIP Tutorial and Colab Walkthrough
 
 ##### ⭐Tutorial difficulty: 🌕🌕🌑🌑🌑
 
