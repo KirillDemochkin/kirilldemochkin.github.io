@@ -13,7 +13,7 @@ categories: howto-GANs-generative-models-introduction
 
 ***
 
-![GANs 101 Teaser](/assets/images/gans_teaser.png "GANs 101 Teaser")
+![GANs 101 Teaser](/assets/images/gans101_teaser.jpg "GANs 101 Teaser")
 
 **So you want to learn GANs!**
 
