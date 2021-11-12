@@ -7,7 +7,7 @@ date: 2021-11-12 19:00:00 -0000
 categories: history-of-GANs-survey-of-popular-architectures
 ---
 
-#### I GAN Explain: 10 years of GAN evolution, and the intuition behind it.
+#### I GAN Explain: 8 years of GAN evolution, and the intuition behind it.
 
 ##### ⭐Tutorial difficulty: 🌕🌕🌑🌑🌑
 
