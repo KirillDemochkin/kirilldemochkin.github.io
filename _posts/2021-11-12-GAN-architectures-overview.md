@@ -34,7 +34,7 @@ Luckily, over the years researchers came up with a multitude of tricks and hacks
 ![The evolution of GANs: GAN](/assets/images/gans_history_2.png "Evolution of GANs: GAN")  
 _Samples from the original 2014 GAN paper. The rightmost column shows real images next to the fake generated samples._
 
-###### All hail the king:
+##### All hail the king:
 There was a lot of rapid improvement in the following years but the real breakthrough happened in 2018 with the introduction of StyleGAN and its next year follow-up StyleGAN2 that is still widely used today for face editing, cartoon/anime filters, and more.
 
 The idea at the core of StyleGAN is simple: images from a single domain, for example, faces, all share the same basic structure - a nose, a mouth, two eyes, two years, you get it. What makes every image unique is the style of the face: the slight variations in the shape of the eyes, the hair color, the width of the nose, etc. To capture this idea StyleGAN restructured the generator to always start from a constant low-resolution tensor (think of this as a generic face blueprint) that is progressively molded into a unique high-resolution face according to a style vector from a learned latent space. Interestingly, the effect of the style vector in each layer of the generator is consistent across samples. Earlier layers control the pose and shape of the face, while the later layers control the finer details such as hair color, takin texture, etc. By changing the latent style vectors in each layer you can more or less controllably change the image, and this is how StyleGAN-based image editing essentially works. It is even possible to swap styles between images to mix them in fun ways.
@@ -43,7 +43,7 @@ The idea at the core of StyleGAN is simple: images from a single domain, for exa
 ![The evolution of GANs: StyleGAN](/assets/images/gans_history_3.png "Evolution of GANs: StyleGAN")  
 _Notice how the mixed images combine the appearance of the two source images differently depending on the layers, for which the styles are swapped_
 
-###### The hypebeast:
+##### The hypebeast:
 As good as StyleGAN is at generating structured images, it sucks at generating images without a clear shared structure (landscapes, abstract paintings, animals in random poses, etc)
 
 ![The evolution of GANs: StyleGAN](/assets/images/gans_history_4.png "Evolution of GANs: StyleGAN")  
