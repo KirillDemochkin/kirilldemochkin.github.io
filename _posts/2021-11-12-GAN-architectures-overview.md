@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "3B: GAN timeline"
+title: "3B: 8 years of GAN history explained in 5 minutes"
 meta_title: "A quick overview of StyleGAN, VQGAN, VAE, and the original GAN"
-description: "I GAN Explain: 10 years of GAN evolution, and the intuition behind it."
+description: "I GAN Explain: 8 years of GAN evolution, and the intuition behind it."
 date: 2021-11-12 19:00:00 -0000
 categories: history-of-GANs-survey-of-popular-architectures
 ---
@@ -12,16 +12,16 @@ categories: history-of-GANs-survey-of-popular-architectures
 ##### ⭐Tutorial difficulty: 🌕🌕🌑🌑🌑
 
 ***
-![The evolution of GANs](/assets/images/gans_history_0.png "Evolution of GANs")
+![The evolution of GANs](/assets/images/gans_history_0.jpg "Evolution of GANs")
 
-###### The first steps:
+##### The first steps:
 The most basic way to do this is to learn a **VAE (Variational Auto Encoder)**. Please don’t run away yet, it is not as scary as it sounds. VAE consists of two modules: an encoder that turns an image into a latent vector (a fancy way to say “mugshot table coordinates” from last week) and a decoder that takes a latent vector and spits out the corresponding image. The two modules learn to deconstruct and reconstruct images in tandem by encoding input images and decoding the results to reproduce the input images as close as possible to the original. Intuitively, the two models The variational part comes from a trick that is used to enable sampling from this model. A small amount of random noise is added to the latent vector each time to make sure that the latent space is tightly packed and not full of empty spaces without any images. Interestingly, only the decoder is needed to create new images since it takes the latent vector (coordinates of the image) and returns the corresponding image.
 
 **TLDR: Variational AutoEncoders are pretty easy to train, but the produced images are blurry.**  
 ![The evolution of GANs: VAE](/assets/images/gans_history_1.png "Evolution of GANs: VAE")  
-_An Introduction to Variational Autoencoders by Kingma et al, 2019_
+_VAE generated images. [Source](https://github.com/WojciechMormul/vae)_
 
-###### The paradigm shift:
+##### The paradigm shift:
 The next obvious step was to come up with a way to generate sharper, more realistic images.
 
 This is where **GANs** make their grand entrance. Proposed by Ian Goodfellow in 2014, they introduce a new mechanic into the mix: use two networks, generator, and discriminator, that compete with each other. The best way to grasp the intuition behind this idea is by thinking of the generator as a counterfeit money maker that tries to fool the bank clerk (the discriminator). In this arms race, the counterfeit maker receives feedback about which of their bills were marked as fake and adjusts the process accordingly to fix the known issues, while the bank clerk is shown both real and fake money and learns to distinguish between the two. As the generator gets better, so does the discriminator, and the training reaches its logical conclusion when the discriminator can no longer distinguish between real samples from training data and the fake images synthesized by the generator.
