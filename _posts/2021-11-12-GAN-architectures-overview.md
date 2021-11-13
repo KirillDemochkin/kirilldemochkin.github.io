@@ -11,15 +11,15 @@ categories: history-of-GANs-survey-of-popular-architectures
 
 ##### ⭐Tutorial difficulty: 🌕🌕🌑🌑🌑
 
+##### Overview:
+In this tutorial we will look at the intuition behind:
+- Variational Auto Encoder (VAE)
+- The OG GAN
+- StyleGAN
+- VQGAN
+
 ***
 ![The evolution of GANs](/assets/images/gans_history_0.jpg "Evolution of GANs")
-
-##### Overview:
-In this tutorial we will look at the intuition behind:  
-- Variational Auto Encoder (VAE)  
-- The OG GAN  
-- StyleGAN  
-- VQGAN
 
 ##### The first steps:
 The most basic way to generate images is to learn a **VAE (Variational Auto Encoder)**. Please don’t run away yet, it is not as scary as it sounds. VAE consists of two modules: an encoder that turns an image into a latent vector (a fancy way to say “mugshot table coordinates” from last week) and a decoder that takes a latent vector and spits out the corresponding image. The two modules learn to deconstruct and reconstruct images in tandem by encoding input images and decoding the results to reproduce the input images as close as possible to the original. Intuitively, the two models The variational part comes from a trick that is used to enable sampling from this model. A small amount of random noise is added to the latent vector each time to make sure that the latent space is tightly packed and not full of empty spaces without any images. Interestingly, only the decoder is needed to create new images since it takes the latent vector (coordinates of the image) and returns the corresponding image.
