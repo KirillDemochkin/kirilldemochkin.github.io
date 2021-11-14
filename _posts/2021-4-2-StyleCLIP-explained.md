@@ -3,7 +3,7 @@ layout: post
 title: "7: StyleCLIP Explained"
 meta_title: "StyleCLIP Explained"
 description: "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery by Patashnik et al. explained in 5 minutes."
-date: 2021-4-6 19:00:00 -0000
+date: 2021-4-2 19:00:00 -0000
 categories: clip-guided-text-based-semantic-image-editing
 ---
 
