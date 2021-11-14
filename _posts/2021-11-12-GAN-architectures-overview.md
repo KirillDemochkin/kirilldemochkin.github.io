@@ -11,6 +11,8 @@ categories: history-of-GANs-survey-of-popular-architectures
 
 ##### ⭐Tutorial difficulty: 🌕🌕🌑🌑🌑
 
+***
+
 ##### Overview:
 In this tutorial we will look at the intuition behind:
 - Variational Auto Encoder (VAE)
