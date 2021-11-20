@@ -21,7 +21,7 @@ Let’s face it - Photoshop is hard. Learning it can sometimes feel like doing w
 Today, however, we will focus on the intuition behind the sort of GAN-based image editing found in the popular FaceApp, Gradient, and Snapchat apps. Specifically, this tutorial will cover the intuition behind creating your digital avatar that can be manipulated and transformed in a myriad of ways.
 
 ##### Mirror, mirror on the wall:  
-Hopefully, you read the previous posts in the series and have a basic idea about GANs. If not, consider first reading posts 2B and 3B, this post will make much more sense!  
+Hopefully, you read the previous posts in the series and have a basic idea about GANs. If not, consider first reading posts [2B]({% post_url 2021-11-5-GANs-101-tutorial %}) and [3B]({% post_url 2021-11-12-GAN-architectures-overview %}), this post will make much more sense!  
 
 Alright, let’s assume that you want to give yourself a lush beard for that rugged photo session, or make yourself look really old and grey-haired in an image, or see what you would look like as the opposite gender. How might you do this? Let’s remember that StyleGAN is scarily good at generating all kinds of photorealistic faces (men and women, young and old, beards, bald people, you name it) and that it uses a style code to control the combination of attributes that appear in each generated image.  
 
