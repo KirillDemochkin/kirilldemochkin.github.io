@@ -42,7 +42,6 @@ Now that you have access to the style code that you can generate your digital av
 - [Generate art from text with VQGAN + CLIP]({% post_url 2021-10-31-VQGAN-CLIP-tutorial %})
 - [GAN quick start]({% post_url 2021-11-5-GANs-101-tutorial %})
 - [The evolution of GANs]({% post_url 2021-11-12-GAN-architectures-overview %})
-***
 
 ##### 🔥 Dive deeper:
 - [Pixel2Style2Pixel (pSp) explained](https://t.me/casual_gan/16)
