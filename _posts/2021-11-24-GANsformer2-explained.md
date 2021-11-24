@@ -21,7 +21,7 @@ There have been several attempts to mix together transformers and GANs over the 
 ##### ⌛️ Prerequisites:
 
 **(Highly recommended reading to understand the core contributions of this paper):**  
-1) [GANsformer2](https://t.me/casual_gan/14)
+1) [GANsformer](https://t.me/casual_gan/14)
 
 ***
 
