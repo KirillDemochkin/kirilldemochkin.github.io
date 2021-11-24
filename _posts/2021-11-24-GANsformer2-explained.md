@@ -7,7 +7,7 @@ date: 2021-11-24 19:00:00 -0000
 categories: gan-transformer-object-based-layout-generation
 ---
 
-#### Masked Autoencoders Are Scalable Vision Learners by Kaiming He et al. explained in 5 minutes
+#### Compositional Transformers for Scene Generation by Drew A. Hudson and C. Lawrence Zitnik explained in 5 minutes
 
 ##### ⭐️Paper difficulty: 🌕🌕🌕🌕🌑
 
