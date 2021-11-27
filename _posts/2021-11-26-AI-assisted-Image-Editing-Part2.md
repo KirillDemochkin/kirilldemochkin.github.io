@@ -40,7 +40,7 @@ Come back next week to learn about neural filters that turn photos into Van Gogh
 
 ##### 🔗 Continue learning:
 
-- [How to edit images with GANs. Part 1]({% post_url 2021-10-19-AI-assisted-Image-Editing-Part1 %})  
+- [How to edit images with GANs. Part 1]({% post_url 2021-11-19-AI-assisted-Image-Editing-Part1 %})  
 - [GAN quick start]({% post_url 2021-11-5-GANs-101-tutorial %})  
 - [The evolution of GANs]({% post_url 2021-11-12-GAN-architectures-overview %})
 
