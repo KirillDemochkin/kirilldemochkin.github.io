@@ -82,9 +82,9 @@ Next, let’s look at a super simple MetaFormer implementation, where the token 
 ***
 
 ##### 🔥 Check Out These Popular AI Paper Summaries:  
-- [SOTA pretraining with Masked Auto-Encoders | MAE explained]({% post_url 2021-11-16-MAE-explained %})  
-- [GANs + Transformers = ? | GANsformer-2 explained]({% post_url 2021-11-24-GANsformer2-explained %})  
-- [How to invert images with StyleGAN2 | The intuition explained]({% post_url 2021-11-19-AI-assisted-Image-Editing-Part1 %})  
+- [SOTA pretraining with Masked Auto-Encoders - MAE explained]({% post_url 2021-11-16-MAE-explained %})  
+- [GANs + Transformers = ? - GANsformer-2 explained]({% post_url 2021-11-24-GANsformer2-explained %})  
+- [How to invert images with StyleGAN2 - The intuition explained]({% post_url 2021-11-19-AI-assisted-Image-Editing-Part1 %})  
 
 ##### 👋 Thanks for reading!
 <a href="https://www.patreon.com/bePatron?u=53448948" data-patreon-widget-type="become-patron-button">Join Patreon for Exclusive Perks!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
