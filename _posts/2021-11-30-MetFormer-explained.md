@@ -51,7 +51,7 @@ Next, let’s look at a super simple MetaFormer implementation, where the token 
 - Even at 300 epochs improved ResNet still can’t surpass PoolFormer  
 - PoolFormer outperforms the baselines in object detection and semantic segmentation tasks as well  
 
-- Ablations: pool size - 3 has same performance as 5 and 7 and slightly better than 9; Group Norm performs better than Layer Norm an Batch Norm; GELU > ReKY or SiLU  
+- Ablations: pool size - 3 has same performance as 5 and 7 and slightly better than 9; Group Norm performs better than Layer Norm an Batch Norm; GELU > ReLU or SiLU  
 - It is possible to use pooling in the first blocks of the MetaTransformer and a more complex token mixer for the later blocks for a hybrid approach that does even better at the cost of a slight increase in parameter size and MACs  
 
 ***
