@@ -4,7 +4,7 @@ title: "71: MetaFormer"
 meta_title: "MetaFormer"
 description: "MetaFormer is Actually What You Need for Vision by Weihao Yu et al. explained in 5 minutes"
 date: 2021-11-30 19:00:00 -0000
-categories: gan-transformer-object-based-layout-generation
+categories: vision-transformer-meta-architecture-sota-imagenet-pretraining
 ---
 
 #### MetaFormer is Actually What You Need for Vision by Weihao Yu et al. explained in 5 minutes
@@ -77,14 +77,14 @@ Next, let’s look at a super simple MetaFormer implementation, where the token 
 - What do you think about MetaFormer? Write your opinion in the comments!
 
 ##### 🔗 Links:
-[MetaFormer arxiv](https://arxiv.org/pdf/2111.08960.pdf) / [MetaFormer github](https://github.com/dorarad/gansformer) / MetaFormer Demo - ?
+[MetaFormer arxiv](ttps://arxiv.org/pdf/2111.11418.pdf) / [MetaFormer github](https://github.com/sail-sg/poolformer) / MetaFormer Demo - ?
 
 ***
 
 ##### 🔥 Check Out These Popular AI Paper Summaries:  
 - [SOTA pretraining with Masked Auto-Encoders | MAE explained]({% post_url 2021-11-16-MAE-explained %})  
-- [GANs + Transformers = ? | GANsformer-2 explained]({% post_url 2021-11-24-Gansformer2-explained %})  
-- [How to edit images with GANs | The intuition explained]({% post_url 2021-11-19-AI-assisted-Image-Editing-Part1 %})  
+- [GANs + Transformers = ? | GANsformer-2 explained]({% post_url 2021-11-24-GANsformer2-explained %})  
+- [How to invert images with StyleGAN2 | The intuition explained]({% post_url 2021-11-19-AI-assisted-Image-Editing-Part1 %})  
 
 ##### 👋 Thanks for reading!
 <a href="https://www.patreon.com/bePatron?u=53448948" data-patreon-widget-type="become-patron-button">Join Patreon for Exclusive Perks!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
