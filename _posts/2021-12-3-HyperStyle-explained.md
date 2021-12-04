@@ -95,7 +95,7 @@ The refinement is performed in several iterations with each using the previous o
 - What do you think about HyperStyle? Write your comments in the chat!  
 
 ##### 🔗 Links:
-[HyperStyle arxiv](https://github.com/yuval-alaluf/hyperstyle) / [HyperStyle github](https://github.com/yuval-alaluf/hyperstyle) / [HyperStyle Demo](https://colab.research.google.com/github/yuval-alaluf/hyperstyle/blob/master/notebooks/inference_playground.ipynb)
+[HyperStyle arxiv](https://arxiv.org/abs/2111.15666) / [HyperStyle github](https://github.com/yuval-alaluf/hyperstyle) / [HyperStyle Demo](https://colab.research.google.com/github/yuval-alaluf/hyperstyle/blob/master/notebooks/inference_playground.ipynb)
 
 ***
 
