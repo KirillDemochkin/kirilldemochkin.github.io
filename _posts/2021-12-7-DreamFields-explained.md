@@ -103,7 +103,7 @@ The architecture is a residual 8-layer MLP with skip connections every 2 layers 
 - What do you think about Dream Fields? Write your comments in the chat  
 
 ##### 🔗 Links:
-[Dream Fields arxiv](https://arxiv.org/abs/2111.15666) / Dream Fields github (Not Available at the Time of Writing)) / Dream Fields Demo
+[Dream Fields arxiv](hhttps://arxiv.org/abs/2112.01455) / Dream Fields github (Not Available at the Time of Writing)) / Dream Fields Demo
 
 ***
 
