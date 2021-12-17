@@ -3,7 +3,7 @@ layout: post
 title: "73: Dream Fields"
 meta_title: "Dream Fields"
 description: "Zero-Shot Text-Guided Object Generation with Dream Fields by Ajay Jain, et al. explained in 5 minutes"
-date: 2021-12-3 16:00:00 -0000
+date: 2021-12-7 16:00:00 -0000
 categories: image-editing-stylegan2-encoder-generator-tuning-inversion
 ---
 
