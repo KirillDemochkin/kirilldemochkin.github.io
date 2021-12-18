@@ -75,6 +75,7 @@ The training loss is simply the MSE over pixels between rendered and ground-trut
 ##### ✏️My Notes:
 
 - (4.5/5) Plenoxels is an extremely catchy and self-explanatory model name, even if it isn’t at all funny
+
 - I really enjoy these papers (“Masked Autoencoders” is another recent example) that take shots at some of the extremely hyped new methods. Waiting for some paper to roast CLIP any day now.
 - What do you think about Plenoxels? Write your comments in the chat!
 
