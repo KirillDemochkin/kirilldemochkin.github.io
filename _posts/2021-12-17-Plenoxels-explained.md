@@ -2,8 +2,8 @@
 layout: post
 title: "74: Plenoxels"
 meta_title: "Plenoxels"
-description: "Plenoxels: Radiance Fields without Neural Networks by Alex Yu,  Sara Fridovich-Keil, et al. explained in 5 minutes"
-date: 2021-12-18 16:00:00 -0000
+description: "Plenoxels: Radiance Fields without Neural Networks by Alex Yu, Sara Fridovich-Keil, et al. explained in 5 minutes"
+date: 2021-12-17 16:00:00 -0000
 categories: NeRF-3D-voxels-without-neural-networks
 ---
 
@@ -76,7 +76,7 @@ The training loss is simply the MSE over pixels between rendered and ground-trut
 
 - (4.5/5) Plenoxels is an extremely catchy and self-explanatory model name, even if it isn’t at all funny
 
-- I really enjoy these papers (“Masked Autoencoders” is another recent example) that take shots at some of the extremely hyped new methods. Waiting for some paper to roast CLIP any day now.
+- I really enjoy these papers (“Meta Transformers” is another recent example) that take shots at some of the extremely hyped new methods. Waiting for some paper to roast CLIP any day now.
 - What do you think about Plenoxels? Write your comments in the chat!
 
 ##### 🔗 Links:
