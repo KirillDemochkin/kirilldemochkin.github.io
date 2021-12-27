@@ -23,7 +23,7 @@ Does this sound too good to be true? You are not wrong, there are some caveats t
 
 ##### ⌛️ Prerequisites:
 
-**(Highly recommended reading to understand the core contributions of this paper):**
+**(Highly recommended reading to understand the core contributions of this paper):**  
 1) [DDPM](https://arxiv.org/abs/2006.11239)  
 2) [Langevin Dynamics](https://en.wikipedia.org/wiki/Langevin_dynamics)  
 3) [DDIM](https://arxiv.org/abs/2010.02502)
@@ -41,6 +41,7 @@ Diffusion models existed before this paper, although still in the shadow of thei
 ##### 🔍 Main Ideas:
 
 _Note: You will not find explanations of formulas and their derivations here, as I honestly do not understand them well enough to explain in a coherent manner, instead this post is focused on the intuition behind the main ideas proposed in guided diffusion._
+
 **1) What is diffusion?**
 Diffusion is an iterative process that tries to reverse a gradual noising process. In other words, in diffusion, there exists a sequence of images with increasing amounts of noise, and during training, the model is given a timestep, an image with the corresponding noise level, and some noise. The goal then is to reconstruct the input image by mixing it with the noise and predicting the mixed noise from the slightly more corrupted resulting image. Surprisingly a simple MSE loss on the input and predicted noise is sufficient for high-quality results (in practice this loss is combined with estimated lower bound to reduce the number of required diffusion steps), given that the noise is modeled as a diagonal gaussian with its mean and std predicted by two MLPs.
 
@@ -92,7 +93,7 @@ It is possible to control how much of an effect the class-conditioning has on th
 - The authors somewhat understate the fact that diffusion is painfully slow  
 - If statistics are fresh in your mind, and you love greek letters, I recommend checking out the appendix, as there are a couple more derivations tucked away in sections B and H  
 
-- What do you think about guided diffusion? Share your thoughts in the chat!
+- What do you think about guided diffusion? Share your thoughts in the [chat](https://t.me/casual_gans_chat)!
 
 ##### 🔗 Links:
 [Diffusion arxiv](https://arxiv.org/pdf/2105.05233.pdf) / [Diffusion Github](https://github.com/openai/guided-diffusion)
