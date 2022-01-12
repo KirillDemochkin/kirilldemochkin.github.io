@@ -23,7 +23,7 @@ And if that wasn’t impressive enough, StyleGAN-V is CLIP-compatible for first-
 
 ##### ⌛️ Prerequisites:
 
-**(Highly recommended reading to understand the core contributions of this paper):**
+**(Highly recommended reading to understand the core contributions of this paper):**  
 1) [StyleGAN2](https://github.com/NVlabs/stylegan2)
 
 ***
