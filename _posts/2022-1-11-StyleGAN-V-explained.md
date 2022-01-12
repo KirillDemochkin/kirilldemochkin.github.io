@@ -101,7 +101,7 @@ The intuition is very simple: frames do not change much in a single video (faces
 ##### 🔥 Check Out These Popular AI Paper Summaries:
 - [100x Faster than NeRF - Plenoxels explained]({% post_url 2021-12-17-Plenoxels-explained %})
 - [NeRF + CLIP = Insanity - DreamFields explained]({% post_url 2021-12-7-DreamFields-explained %})
-- [CLIP + Guided Diffusion explained]({% post_url 2021-12-26-Guided-Diffusion-explained %})
+- [Guided Diffusion explained]({% post_url 2021-12-26-Guided-Diffusion-explained %})
 
 ##### 👋 Thanks for reading!
 <a href="https://www.patreon.com/bePatron?u=53448948" data-patreon-widget-type="become-patron-button">Join Patreon for Exclusive Perks!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
