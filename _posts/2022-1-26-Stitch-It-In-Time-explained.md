@@ -22,7 +22,7 @@ What do you do after mastering image editing? One possible answer is to move on 
 ##### ⌛️ Prerequisites:
 
 **(Highly recommended reading to understand the core contributions of this paper):**  
-1) [e4e]({% post_url 2021-4-6-NeRF-explained %})
+1) [e4e]({% post_url 2021-4-6-NeRF-explained %})  
 2) [PTI]({% post_url 2021-6-29-PTI %})
 
 ***
