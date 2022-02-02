@@ -3,7 +3,7 @@ layout: post
 title: "79: StyleGAN3 Inversion & Editing"
 meta_title: "StyleGAN3 Inversion & Editing"
 description: "Third Time’s the Charm? Image and Video Editing with StyleGAN3 by Yuval Alaluf, Or Patashnik et al. explained in 5 minutes"
-date: 2022-2-3 16:00:00 -0000
+date: 2022-2-2 16:00:00 -0000
 categories: alias-free-gan-stylegan3-inversion-video-editing
 ---
 
