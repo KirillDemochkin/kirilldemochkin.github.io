@@ -26,9 +26,9 @@ Let’s dive in, and learn, shall we?
 ##### ⌛️ Prerequisites:
 
 **(Highly recommended reading to understand the core contributions of this paper):**  
-1) [Alias-free GAN]({% 2021-6-25-AliasFreeGAN %})  
-2) [ReStyle]({% 2021-4-9-ReStyle-explained %})  
-3) [StyleCLIP]({% 2021-4-2-StyleCLIP-explained %})  
+1) [Alias-free GAN]({% post_url 2021-6-25-AliasFreeGAN %})  
+2) [ReStyle]({% post_url 2021-4-9-ReStyle-explained %})  
+3) [StyleCLIP]({% post_url 2021-4-2-StyleCLIP-explained %})  
 4) [PTI]({% post_url 2021-6-29-PTI %})  
 
 ***
