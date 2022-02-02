@@ -109,7 +109,7 @@ As if that was not impressive enough, the authors suggest a way to expand the fi
 ##### 🔥 Check Out These Popular AI Paper Summaries:
 - [Train a NeRF in Seconds - Instant Neural Graphics explained]({% post_url 2022-1-18-Instant-Neural-Graphics-Primitives-explained %})
 - [Infinite Video Generation - StyleGAN-V explained]({% post_url 2022-1-11-StyleGAN-V-explained %})
-- [Casual GAN Paper Awards - Best Papers of 2021]({% post_url 2021-1-28-Casual-GAN-Papers-Awards %})
+- [Casual GAN Paper Awards - Best Papers of 2021]({% post_url 2022-1-28-Casual-GAN-Papers-Awards %})
 
 ##### 👋 Thanks for reading!
 <a href="https://www.patreon.com/bePatron?u=53448948" data-patreon-widget-type="become-patron-button">Join Patreon for Exclusive Perks!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
