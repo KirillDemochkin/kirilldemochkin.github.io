@@ -13,7 +13,7 @@ categories: self-supervised-image-animation-image-driving
 
 ***
 
-![First Order Motion Model](/assets/images/fomm_preview.gif "First Order Motion Model Teaser")
+![First Order Motion Model](/assets/images/fomm_teaser.gif "First Order Motion Model Teaser")
 
 ##### 🎯 At a glance:
 
