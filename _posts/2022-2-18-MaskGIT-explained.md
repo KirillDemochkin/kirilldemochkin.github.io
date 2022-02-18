@@ -87,6 +87,7 @@ Unlike BERT’s constant 15% masking, the authors propose to vary this number du
 
 - Well, we started with transformers in CV last year, now we got a sort of a vision-BERT, what NLP paper will migrate to CV next? GPTImage, anyone? Not sure how it would work, but it does sound cool  
 - What do you think about MaskGIT? Let's discuss in the comments!
+
 ##### 🔗 Links:
 
 [MaskGIT arxiv](https://papers.nips.cc/paper/2019/file/31c0b36aef265d9221af80872ceb62f9-Paper.pdf) / [MaskGIT Github](https://aliaksandrsiarohin.github.io/first-order-model-website/)
