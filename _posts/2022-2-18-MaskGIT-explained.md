@@ -90,7 +90,7 @@ Unlike BERT’s constant 15% masking, the authors propose to vary this number du
 
 ##### 🔗 Links:
 
-[MaskGIT arxiv](https://papers.nips.cc/paper/2019/file/31c0b36aef265d9221af80872ceb62f9-Paper.pdf) / [MaskGIT Github](https://aliaksandrsiarohin.github.io/first-order-model-website/)
+[MaskGIT arxiv](https://arxiv.org/pdf/2202.04200.pdf) / [MaskGIT Github (Unofficial)](https://github.com/dome272/MaskGIT-pytorch)
 
 ***
 
