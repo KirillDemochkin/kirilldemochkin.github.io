@@ -25,7 +25,7 @@ As for the details, let’s dive in, shall we?
 
 ##### ⌛️ Prerequisites:
 
-**(Highly recommended reading to understand the core contributions of this paper):**
+**(Highly recommended reading to understand the core contributions of this paper):**  
 1) [VQGAN]({% post_url 2021-6-1-VQGAN %})  
 
 ***
