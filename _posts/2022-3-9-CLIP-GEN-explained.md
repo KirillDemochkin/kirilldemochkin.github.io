@@ -78,7 +78,7 @@ The authors for some reason decided to train the VQGAN from scratch, to which th
 [CLIP-GEN arxiv](https://arxiv.org/pdf/2203.00386v1.pdf) / CLIP-GEN GitHub (Not released at the time of writing)
 
 ##### 💸 If you enjoy my posts, consider donating ETH to support Casual GAN Papers:  
-**0x7c2a650437f58664BED719D680F2BE120bE5623b**
+0x7c2a650437f58664BED719D680F2BE120bE5623b
 
 ***
 
