@@ -3,7 +3,7 @@ layout: post
 title: "Reader Experience Design - 1"
 meta_title: "RX1: How to write papers that are easy to read? by Casual GAN Papers"
 description: "RX1: How to write papers that are easy to read? by Casual GAN Papers explained in 5 minutes"
-date: 2022-4-1 16:00:00 -0000
+date: 2022-3-31 16:00:00 -0000
 categories: improve-writing-better-papers-clear-communication
 ---
 
