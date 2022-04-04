@@ -166,6 +166,12 @@ table { border-collapse: collapse; border-spacing: 0; }
 .icon-patreon:before {
     content: "\e901";
 }
+.icon-discord:before {
+    content: "\e902";
+}
+.icon-notion:before {
+    content: "\e903";
+}
 
 
 /* ==========================================================================
