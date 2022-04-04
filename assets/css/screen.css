@@ -136,6 +136,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 }
 .icon-feed:before {
     content: "\f601";
+    font-size: 1.1em;
 }
 .icon-twitter:before {
     content: "\f602";
@@ -162,18 +163,23 @@ table { border-collapse: collapse; border-spacing: 0; }
 }
 .icon-tg:before {
     content: "\e900";
+    font-size: 1.1em;
 }
 .icon-patreon:before {
     content: "\e901";
+    font-size: 1.1em;
 }
 .icon-discord:before {
     content: "\e902";
+    font-size: 1.1em;
 }
 .icon-notion:before {
     content: "\e903";
+    font-size: 1.1em;
 }
 .icon-github:before {
     content: "\e904";
+    font-size: 1.1em;
 }
 
 
