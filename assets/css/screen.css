@@ -632,8 +632,8 @@ margin on the iframe, cause it breaks stuff. */
     transition: all ease 0.3s;
 }
 .subscribe-button:before {
-    font-size: 48px;
-    margin-right: 0;
+    font-size: 24px;
+    margin-right: 4px;
 }
 
 .top-button-container {
