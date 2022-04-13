@@ -21,8 +21,7 @@ The authors of Make-A-Scene propose a novel text-to-image method that leverages 
 
 As for the details, let’s dive in, shall we?
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>kofiWidgetOverlay.draw('casualganpapers', {'type': 'floating-chat', 'floating-chat.donateButton.text': 'Support me', 'floating-chat.donateButton.background-color': '#323842', 'floating-chat.donateButton.text-color': '#fff'});</script>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Tip Casual GAN Papers', '#e02863', 'V7V7BXBHV');kofiwidget2.draw();</script> 
 
 ##### ⌛️ Prerequisites:
 
@@ -89,15 +88,7 @@ This neat little trick is used to improve fidelity and diversity of generated sa
 
 ##### 💸 If you enjoy Casual GAN Papers, consider tipping on KoFi:  
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('casualganpapers', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#323842',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Tip Casual GAN Papers', '#e02863', 'V7V7BXBHV');kofiwidget2.draw();</script> 
 
 ***
 
