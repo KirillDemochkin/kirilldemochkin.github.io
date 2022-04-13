@@ -22,14 +22,7 @@ The authors of Make-A-Scene propose a novel text-to-image method that leverages 
 As for the details, let’s dive in, shall we?
 
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('casualganpapers', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#323842',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+<script>kofiWidgetOverlay.draw('casualganpapers', {'type': 'floating-chat', 'floating-chat.donateButton.text': 'Support me', 'floating-chat.donateButton.background-color': '#323842', 'floating-chat.donateButton.text-color': '#fff'});</script>
 
 ##### ⌛️ Prerequisites:
 
