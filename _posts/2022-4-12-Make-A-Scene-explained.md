@@ -29,7 +29,7 @@ As for the details, let’s dive in, shall we?
 
 **(Highly recommended reading to understand the core contributions of this paper):**  
 1. [VQGAN]({% post_url 2021-6-1-VQGAN %})  
-
+2. [GLIDE]({% post_url 2022-4-26-GLIDE-explained%})
 
 ##### 🚀 Motivation:
 
