@@ -3,7 +3,7 @@ layout: post
 title: "85: GLIDE"
 meta_title: "GLIDE"
 description: "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models by Alex Nichol et al. explained in 5 minutes"
-date: 2022-4-26 16:00:00 -0000
+date: 2022-4-25 16:00:00 -0000
 categories: faster-diffusion-models-text-to-image-classifier-free-guidance
 ---
 
