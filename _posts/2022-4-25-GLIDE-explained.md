@@ -84,7 +84,7 @@ The authors of GLIDE noticed that CLIP-guided diffusion can not handle intermedi
 
 ##### 🔗 Links:
 
-[Make-A-Scene arxiv](https://arxiv.org/abs/2112.10741) / [Make-A-Scene GitHub](https://github.com/openai/glide-text2im)
+[GLIDE arxiv](https://arxiv.org/abs/2112.10741) / [GLIDE GitHub](https://github.com/openai/glide-text2im)
 
 ##### 💸 If you enjoy Casual GAN Papers, consider tipping on KoFi:  
 
