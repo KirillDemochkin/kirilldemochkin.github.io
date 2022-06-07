@@ -30,8 +30,8 @@ Enough said. Let’s dive in, shall we?
 **(Highly recommended reading to understand the core contributions of this paper):**  
 1. [CLIP]({% post_url 2021-9-14-CLIP-explained %})  
 2. [Diffusion]({% post_url 2021-12-26-Guided-Diffusion-explained %})  
-3. [GLIDE]({% post_url 2021-4-25-GLIDE-explained %})  
-4. [LDMs]({% post_url 2021-5-3-Latent-Diffusion-Models-explained %})  
+3. [GLIDE]({% post_url 2022-4-25-GLIDE-explained %})  
+4. [LDMs]({% post_url 2022-5-3-Latent-Diffusion-Models-explained %})  
 
 ##### 🚀 Motivation:
 
