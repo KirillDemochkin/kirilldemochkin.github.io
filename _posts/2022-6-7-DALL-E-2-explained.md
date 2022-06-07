@@ -31,7 +31,7 @@ Enough said. Let’s dive in, shall we?
 1. [CLIP]({% post_url 2021-9-14-CLIP-explained %})  
 2. [Diffusion]({% post_url 2021-12-26-Guided-Diffusion-explained %})  
 3. [GLIDE]({% post_url 2022-4-25-GLIDE-explained %})  
-4. [LDMs]({% post_url 2022-5-3-Latent-Diffusion-Models-explained %})  
+4. [LDMs]({% post_url 2022-5-3-Latent-Disffusion-Models-explained %})  
 
 ##### 🚀 Motivation:
 
@@ -117,7 +117,7 @@ Another set of insightful, albeit less fun (in my opinion) experiments consist o
 
 ##### 🔥 Read More Popular AI Paper Summaries:
 - [Mask-conditioned text-to-image - Make-A-Scene Explained]({% post_url 2022-4-12-Make-A-Scene-explained %})
-- [Democratizing Diffusion Models - Latent Diffusion Models Explained]({% post_url 2022-5-3-Latent-Diffusion-Models-explained %})
+- [Democratizing Diffusion Models - Latent Diffusion Models Explained]({% post_url 2022-5-3-Latent-Disffusion-Models-explained %})
 - [Improved Text-to-Image Diffusion Models - GLIDE Explained ]({% post_url 2022-4-25-GLIDE-explained %})
 
 ##### 👋 Thanks for reading!
