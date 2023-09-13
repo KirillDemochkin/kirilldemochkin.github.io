@@ -14,5 +14,3 @@ Here you will find:
 Visit [casualganpapers.com](https://www.casualganpapers.com)
 or join the [Casual GAN Papers telegram channel](https://t.me/joinchat/KeutnzlvetRkZGZi) 
 to receive digests of the latest AI papers twice a week!
-
-For business inquiries contact: [Kirill Demochkin](mailto:kdemochkin@gmail.com)
